@@ -1,0 +1,26 @@
+@mixin shadow {
+    box-shadow: 5px 5px 5px $color-shadow;
+}
+
+@mixin border-radius {
+    border-radius: 20px;
+}
+
+@mixin flex-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: $padding;
+}
+
+@mixin btn {
+    padding: $padding;
+    @include shadow;
+    @include border-radius;
+    cursor: pointer;
+    margin: 10px;
+    &--full-width {
+        width: 100%;
+    }
+}

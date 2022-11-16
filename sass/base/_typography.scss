@@ -1,27 +1,10 @@
-body {
-    font-family: 'Roboto', sans-serif;
-    color: $color-primary;
-    font-size: 2rem;
-    font-weight: 100;
-    line-height: 1.7;
+@font-face {
+    font-family: 'Roboto';
+    src: url('fonts/roboto/Roboto-Regular.ttf') format('truetype');
 }
 
-h1 {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 900;
-    font-size: 5rem;
-    font-style: italic;
+@font-face {
+    font-family: 'Shrikhand';
+    src: url('fonts/shrikhand/Shrikhand-Regular.otf') format('truetype');
 }
 
-textarea {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 100;
-    font-size: 2rem;
-}
-
-button {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 900;
-    font-style: italic;
-    font-size: 2.75rem;
-}

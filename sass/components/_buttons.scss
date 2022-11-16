@@ -1,0 +1,22 @@
+.btn-pink {
+    @include btn;
+    color: $color-white;
+    background: $color-secondary;
+    &:hover{
+        background: $color-primary;
+        color: $color-secondary;
+    }
+}
+
+.btn-grey {
+    @include btn;
+    height: 60px;
+    color: $color-white;
+    background: $color-light-grey;
+    color: black;
+    &:hover{
+        background: black;
+        color: $color-light-grey;
+    }
+}
+
