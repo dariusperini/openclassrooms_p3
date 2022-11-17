@@ -1,10 +1,9 @@
 .btn-pink {
     @include btn;
     color: $color-white;
-    background: $color-secondary;
+    background:linear-gradient($color-secondary, $color-primary);
     &:hover{
-        background: $color-primary;
-        color: $color-secondary;
+        background:linear-gradient($color-primary, $color-secondary);
     }
 }
 
@@ -15,8 +14,7 @@
     background: $color-light-grey;
     color: black;
     &:hover{
-        background: black;
-        color: $color-light-grey;
+        background: $color-light-pink;
     }
 }
 

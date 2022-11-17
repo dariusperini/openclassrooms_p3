@@ -11,13 +11,14 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: $padding;
+    text-align: center;
 }
 
 @mixin btn {
     padding: $padding;
     @include shadow;
     @include border-radius;
+    margin-bottom: $margin-search;
     cursor: pointer;
     margin: 10px;
     &--full-width {

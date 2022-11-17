@@ -1,7 +1,11 @@
 @charset "UTF-8";
+/* COLORS */
+/* PADDINGS */
+/* MARGINS */
 body {
   background: #FFFFFF;
   font-family: "Roboto";
+  margin: 0;
 }
 
 h1 {
@@ -31,36 +35,36 @@ h3 {
   padding: 10px;
   box-shadow: 5px 5px 5px rgb(231, 231, 231);
   border-radius: 20px;
+  margin-bottom: 20px;
   cursor: pointer;
   margin: 10px;
   color: #FFFFFF;
-  background: #FF79DA;
+  background: linear-gradient(#FF79DA, #9656DC);
 }
 .btn-pink--full-width {
   width: 100%;
 }
 .btn-pink:hover {
-  background: #9656DC;
-  color: #FF79DA;
+  background: linear-gradient(#9656DC, #FF79DA);
 }
 
 .btn-grey {
   padding: 10px;
   box-shadow: 5px 5px 5px rgb(231, 231, 231);
   border-radius: 20px;
+  margin-bottom: 20px;
   cursor: pointer;
   margin: 10px;
   height: 60px;
   color: #FFFFFF;
-  background: #EEE;
+  background: rgb(247, 247, 247);
   color: black;
 }
 .btn-grey--full-width {
   width: 100%;
 }
 .btn-grey:hover {
-  background: black;
-  color: #EEE;
+  background: rgb(245, 237, 255);
 }
 
 .picto {
@@ -72,11 +76,12 @@ header {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 10px;
+  text-align: center;
 }
 
 .logo {
   width: 50%;
+  margin: 20px;
 }
 
 .search {
@@ -84,8 +89,53 @@ header {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 10px;
-  background-color: #EEE;
+  text-align: center;
+  background-color: rgb(247, 247, 247);
+}
+
+.search_input {
+  margin-bottom: 20px;
+  background-color: #dedede;
+  width: 100%;
+  height: 40px;
+  border: 0px;
+  text-align: center;
+}
+
+.maintext {
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 20px;
+}
+
+.undertext {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.btn_search {
+  margin-bottom: 60px;
+}
+
+input[type=text] {
+  margin-bottom: 20px;
+  background-color: #dedede;
+  height: 40px;
+  border: 0px;
+  text-align: center;
+}
+
+.searchcity {
+  position: relative;
+  width: 100%;
+}
+
+.searchcity i {
+  position: absolute;
+  left: 90px;
+  top: 12px;
 }
 
 .howto {
@@ -112,7 +162,7 @@ a:hover {
 .restaurant_main {
   margin-top: 40px;
   padding: 20px 10px;
-  background-color: #EEE;
+  background-color: rgb(247, 247, 247);
 }
 
 .restaurant_title {
