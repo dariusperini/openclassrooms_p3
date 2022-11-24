@@ -37,7 +37,6 @@ a:hover {
         display: flex;
         flex-direction: row;
         justify-content: center;        
-        margin-bottom: 40px;;
     }
 
     &_title {
@@ -68,12 +67,12 @@ a:hover {
             line-height: 0.5em;
         }
     }
-}
 
-.card-container__hero {
-    position: relative;
-    z-index: 1;
-    margin-top: -40px;
+    &__hero {
+        position: relative;
+        z-index: 1;
+        margin-top: -40px;
+    }
 }
 
 .card-menu {

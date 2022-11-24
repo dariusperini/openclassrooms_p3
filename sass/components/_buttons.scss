@@ -1,15 +1,3 @@
 .btn-primary {
-    @include btn($color-white, linear-gradient($color-secondary, $color-primary),linear-gradient($color-primary, $color-secondary));
-}
-
-.btn-secondary {
-    @include btn;
-    height: 60px;
-    color: black;
-}
-
-.btn-tertiary {
-    @include btn(black, white, $color-background-primary);
-    height: 70px;
-    border: none;
+    @include item($color-white, linear-gradient($color-secondary, $color-primary),linear-gradient($color-primary, $color-secondary));
 }

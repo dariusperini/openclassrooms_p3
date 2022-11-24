@@ -36,7 +36,7 @@ h3 {
 .btn-primary {
   padding: 10px;
   box-shadow: 5px 5px 5px rgb(231, 231, 231);
-  border-radius: 24px;
+  border-radius: 18px;
   margin-bottom: 20px;
   font-size: 12px;
   color: #FFFFFF;
@@ -45,54 +45,34 @@ h3 {
   margin: 10px;
 }
 .btn-primary--full-width {
-  width: 95%;
+  width: 85%;
 }
 .btn-primary:hover {
   background: linear-gradient(#9656DC, #FF79DA);
 }
 
-.btn-secondary {
+.item {
   padding: 10px;
   box-shadow: 5px 5px 5px rgb(231, 231, 231);
-  border-radius: 24px;
-  margin-bottom: 20px;
-  font-size: 12px;
-  color: #FFFFFF;
-  background: rgb(247, 247, 247);
-  cursor: pointer;
-  margin: 10px;
-  height: 60px;
-  color: black;
-}
-.btn-secondary--full-width {
-  width: 95%;
-}
-.btn-secondary:hover {
-  background: rgb(245, 237, 255);
-}
-
-.btn-tertiary {
-  padding: 10px;
-  box-shadow: 5px 5px 5px rgb(231, 231, 231);
-  border-radius: 24px;
+  border-radius: 18px;
   margin-bottom: 20px;
   font-size: 12px;
   color: black;
   background: white;
   cursor: pointer;
   margin: 10px;
-  height: 70px;
+  height: 40px;
   border: none;
 }
-.btn-tertiary--full-width {
-  width: 95%;
+.item--full-width {
+  width: 85%;
 }
-.btn-tertiary:hover {
+.item:hover {
   background: rgb(247, 247, 247);
 }
 
 .img-header {
-  height: 400px;
+  height: 250px;
   overflow: hidden;
 }
 .img-header img {
@@ -119,7 +99,7 @@ h3 {
   padding: 28px 12px;
   background: #F7F7F7;
   box-shadow: 5px 5px 5px rgb(231, 231, 231);
-  border-radius: 24px;
+  border-radius: 18px;
 }
 .step .step__number {
   position: absolute;
@@ -153,7 +133,12 @@ header {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
+}
+header i {
+  position: absolute;
+  left: 10px;
+  top: 34px;
 }
 
 .logo {
@@ -220,7 +205,7 @@ header {
   margin-top: -20px;
 }
 
-.button-list {
+.item-list {
   display: flex;
   flex-direction: column;
 }
@@ -262,7 +247,6 @@ a:hover {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  margin-bottom: 40px;
 }
 .card-container_title {
   margin-bottom: 20px;
@@ -271,7 +255,7 @@ a:hover {
   height: 199px;
   padding: 5px;
   margin-bottom: 20px;
-  border-radius: 24px;
+  border-radius: 18px;
   background-color: #FFFFFF;
   box-shadow: 5px 5px 5px rgb(231, 231, 231);
 }
@@ -292,7 +276,6 @@ a:hover {
   margin-right: 14px;
   line-height: 0.5em;
 }
-
 .card-container__hero {
   position: relative;
   z-index: 1;
@@ -308,6 +291,7 @@ a:hover {
   color: #666;
   position: relative;
   margin-top: 20px;
+  margin-bottom: 10px;
   margin-left: 10px;
 }
 .dish-title:after {

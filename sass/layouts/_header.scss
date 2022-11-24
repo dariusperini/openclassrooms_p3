@@ -3,11 +3,17 @@ header {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
+
+    i {
+        position: absolute;
+        left: 10px;
+        top : 34px;
+    }
 }
 
 .logo {
     width: 40%;
     max-width: 200px;
-    margin: $margin-search;
+    margin: $default-margin;
 }

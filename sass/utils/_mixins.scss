@@ -3,7 +3,7 @@
 }
 
 @mixin border-radius {
-    border-radius: 24px;
+    border-radius: 18px;
 }
 
 @mixin flex-center {
@@ -14,7 +14,7 @@
     text-align: center;
 }
 
-@mixin btn(
+@mixin item(
     $text-color: $color-white,
     $background-color: $color-background-primary,
     $hover-background-color: $color-secondary-lighter
@@ -22,14 +22,14 @@
     padding: $default-padding;
     @include shadow;
     @include border-radius;
-    margin-bottom: $margin-search;
+    margin-bottom: $default-margin;
     font-size: $size-card-text;
     color: $text-color;
     background: $background-color;
     cursor: pointer;
     margin: 10px;
     &--full-width {
-        width: 95%;
+        width: 85%;
     }
     &:hover{
         background: $hover-background-color;

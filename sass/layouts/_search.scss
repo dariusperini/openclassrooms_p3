@@ -1,6 +1,6 @@
 .search {
     background-color: #EAEAEA;
-    margin-bottom: $margin-search;
+    margin-bottom: $default-margin;
     box-shadow: inset 0px 7px 5PX -9px rgba(0,0,0,0.6);
 }
 
@@ -31,17 +31,17 @@
     font-weight: bold;
     margin-left: 40px;
     margin-right: 40px;
-    margin-bottom: $margin-search;
+    margin-bottom: $default-margin;
 }
 
 .undertext {
     color: $color-secondary-text;
-    margin-bottom: $margin-search;
+    margin-bottom: $default-margin;
     font-size: $size-secondary-title;
 }
 
 .btn_search {
-    margin-bottom: $margin-search * 3;
+    margin-bottom: $default-margin * 3;
 }
 
 .search > form {
