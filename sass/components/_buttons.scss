@@ -1,20 +1,15 @@
-.btn-pink {
-    @include btn;
-    color: $color-white;
-    background:linear-gradient($color-secondary, $color-primary);
-    &:hover{
-        background:linear-gradient($color-primary, $color-secondary);
-    }
+.btn-primary {
+    @include btn($color-white, linear-gradient($color-secondary, $color-primary),linear-gradient($color-primary, $color-secondary));
 }
 
-.btn-grey {
+.btn-secondary {
     @include btn;
     height: 60px;
-    color: $color-white;
-    background: $color-light-grey;
     color: black;
-    &:hover{
-        background: $color-light-pink;
-    }
 }
 
+.btn-tertiary {
+    @include btn(black, white, $color-background-primary);
+    height: 70px;
+    border: none;
+}

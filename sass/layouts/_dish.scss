@@ -1,0 +1,50 @@
+.dish {
+    &-section {
+
+    }
+
+    &-title {
+        text-transform: uppercase;
+        color: $color-secondary-text;
+        position: relative;
+        margin-top: 20px;
+        margin-left: 10px;
+
+        &:after {
+            content: '';
+            width: 40px;
+            height: 3px;
+            left:0;
+            background: $color-tertiary;
+            position: absolute;
+            bottom: -4px;
+          }
+    }
+
+    &-name {
+        font-size: $size-card-title;
+        font-weight: bold;
+        text-align: left;
+        padding-bottom: 5px;
+    }
+
+    &-detail {
+        font-size: $size-card-text;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        color: $color-secondary-text;
+    }
+
+    &-desc {
+        
+    }
+
+    &-price {
+        font-weight: bold;
+    }
+}
+
+.btn-menu {
+    width:150px;
+}

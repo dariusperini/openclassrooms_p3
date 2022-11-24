@@ -1,0 +1,75 @@
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.card-title {
+    font-family: 'Shrikhand';
+    font-size: $size-main-title;
+}
+
+.card-container {
+    background-color: $color-background-primary;
+    margin-top: 40px;
+    padding: 20px 10px;
+
+    &__rounded {
+        border-radius: 40px 40px 0px 0px;
+    }
+
+    &_header {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: $default-padding;
+    }
+
+    &_footer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;        
+        margin-bottom: 40px;;
+    }
+
+    &_title {
+        margin-bottom: 20px;
+    }
+
+    &_body {
+        &_article {
+            @include card;
+        }
+
+        &_img img{
+            border-radius: 20px 20px 0px 0px;
+            display: block;
+            width: 100%;
+            height: 124px;
+            object-fit: cover;    
+        }
+
+        &_text {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 10px;
+            margin-left: 14px;
+            margin-right: 14px;
+            line-height: 0.5em;
+        }
+    }
+}
+
+.card-menu {
+    padding-top: -40px;
+}

@@ -14,14 +14,33 @@
     text-align: center;
 }
 
-@mixin btn {
-    padding: $padding;
+@mixin btn(
+    $text-color: $color-white,
+    $background-color: $color-background-primary,
+    $hover-background-color: $color-secondary-lighter
+    ) {
+    padding: $default-padding;
     @include shadow;
     @include border-radius;
     margin-bottom: $margin-search;
+    font-size: $size-card-text;
+    color: $text-color;
+    background: $background-color;
     cursor: pointer;
     margin: 10px;
     &--full-width {
-        width: 100%;
+        width: 95%;
     }
+    &:hover{
+        background: $hover-background-color;
+    }
+}
+
+@mixin card {
+    height: 199px;
+    padding: 5px;
+    margin-bottom: 20px;
+    @include border-radius;
+    background-color: #FFFFFF;
+    @include shadow;
 }

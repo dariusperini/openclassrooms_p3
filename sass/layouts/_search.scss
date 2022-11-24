@@ -1,19 +1,20 @@
 .search {
     @include flex-center;
-    background-color: $color-light-grey;
+    background-color: $color-background-primary;
 }
 
 .search_input {
     margin-bottom: $margin-search;
-    background-color: darken($color-light-grey, 10%);
+    background-color: darken($color-background-primary, 10%);
     width: 100%;
+    max-width: 400px;
     height: 40px;
     border: 0px;
     text-align: center;
 }
 
 .maintext {
-    font-size: 22px;
+    font-size: $size-main-title;
     font-weight: bold;
     margin-left: 40px;
     margin-right: 40px;
@@ -21,8 +22,9 @@
 }
 
 .undertext {
-    color: $color-light-black;
+    color: $color-secondary-text;
     margin-bottom: $margin-search;
+    font-size: $size-secondary-title;
 }
 
 .btn_search {
@@ -31,7 +33,8 @@
 
 input[type=text] { 
     margin-bottom: $margin-search;
-    background-color: darken($color-light-grey, 10%);
+    box-shadow: inset 0 1px 0 0 #888;
+    background-color: darken($color-background-primary, 10%);
     height: 40px;
     border: 0px;
     text-align: center;

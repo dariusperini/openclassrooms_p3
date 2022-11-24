@@ -1,17 +1,27 @@
 /* COLORS */
 $color-primary: #9656DC;
 $color-secondary: #FF79DA;
+$color-secondary-lighter: rgb(245,237,255);
 $color-tertiary: #99E2D0;
-$color-dark-grey: #535353;
-$color-light-grey: rgb(247,247,247);
-$color-light-black: #666;
+$color-background-primary: rgb(247,247,247);
+$color-background-secondary: #535353;
+
+$color-primary-text: black;
+$color-secondary-text: #666;
+
 $color-white: #FFFFFF;
 $color-shadow: rgb(231, 231, 231);
-$color-light-pink: rgb(245,237,255);
 
 /* PADDINGS */
-$padding: 10px;
+$default-padding: 10px;
 $padding-footer: 10px;
 
 /* MARGINS */
 $margin-search: 20px;
+
+/* SIZES */
+$size-main-title: 22px;
+$size-secondary-title: 18px;
+$size-main-text: 16px;
+$size-card-title: 14px;
+$size-card-text: 12px;

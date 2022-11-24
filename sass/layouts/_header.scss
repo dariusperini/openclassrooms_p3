@@ -1,8 +1,13 @@
 header {
-    @include flex-center;
+    padding: $default-padding;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .logo {
-    width: 50%;
+    width: 40%;
+    max-width: 200px;
     margin: $margin-search;
 }
