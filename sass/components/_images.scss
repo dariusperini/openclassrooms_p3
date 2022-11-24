@@ -1,3 +1,11 @@
 .img-header {
-    width: 200px;
+    // width: 200px;
+    height: 400px;
+    overflow: hidden;
+
+    img {
+        width: 130%;
+        height: 130%;
+        object-fit: cover;
+    }
 }

@@ -1,0 +1,47 @@
+.steps {
+    padding: 0 18px;
+    padding-left: 24px;
+
+    .step {
+       margin-bottom: 16px;
+    }
+}
+
+.step {
+    position: relative;
+    font-weight: 600;
+    padding: 28px 12px;
+    background: #F7F7F7;
+    @include shadow;
+    @include border-radius;
+    //text-align: center;
+
+    .step__number {
+        position: absolute;
+        left: -10px;
+        margin-top: -2px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 24px;
+        height: 24px;
+        background: $color-primary;
+        border-radius: 100%;
+        color: #ffffff;
+        font-size: .8rem;
+    }
+
+    i {
+        display: inline-block;
+        width: 58px;
+        font-size: 1.2rem;
+        text-align: center;
+    }
+    
+    &:hover {
+        background: $color-secondary-lighter;
+        i {
+            color: $color-primary;
+        }
+    }
+}

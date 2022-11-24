@@ -70,6 +70,12 @@ a:hover {
     }
 }
 
+.card-container__hero {
+    position: relative;
+    z-index: 1;
+    margin-top: -40px;
+}
+
 .card-menu {
     padding-top: -40px;
 }
