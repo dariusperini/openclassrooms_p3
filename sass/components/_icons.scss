@@ -1,3 +1,25 @@
 .picto {
     margin-right: 10px;
 }
+
+
+@keyframes color-change {
+    0%   {color: white;}
+    100% {color: $color-primary;}
+  }
+
+.heart .fa-solid {
+    color: $color-primary;
+    animation-name: color-change;
+    animation-duration: 2s;
+}
+
+.heart:hover .fa-solid,
+.heart .fa-regular {
+    display: inline;
+}
+
+.heart:hover .fa-regular,
+.heart .fa-solid {
+    display: none;
+}

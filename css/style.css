@@ -2,6 +2,7 @@
 /* PADDINGS */
 /* MARGINS */
 /* SIZES */
+/* MEDIA QUERIES */
 body {
   background: #FFFFFF;
   font-family: "Roboto";
@@ -10,8 +11,9 @@ body {
 }
 
 h1 {
-  font-size: 22px;
-  padding-left: 10px;
+  font-size: 20px;
+  padding-top: 20px;
+  padding-left: 20px;
 }
 
 h2 {
@@ -34,41 +36,62 @@ h3 {
   src: url("fonts/shrikhand/Shrikhand-Regular.otf") format("truetype");
 }
 .btn-primary {
-  padding: 10px;
+  padding: 13px 20px;
   box-shadow: 5px 5px 5px rgb(231, 231, 231);
-  border-radius: 18px;
-  margin-bottom: 20px;
-  font-size: 12px;
+  border-radius: 24px;
+  font-size: 15px;
   color: #FFFFFF;
   background: linear-gradient(#FF79DA, #9656DC);
   cursor: pointer;
-  margin: 10px;
-}
-.btn-primary--full-width {
-  width: 85%;
-}
-.btn-primary:hover {
-  background: linear-gradient(#9656DC, #FF79DA);
-}
-
-.item {
-  padding: 10px;
-  box-shadow: 5px 5px 5px rgb(231, 231, 231);
-  border-radius: 18px;
-  margin-bottom: 20px;
-  font-size: 12px;
-  color: black;
-  background: white;
-  cursor: pointer;
-  margin: 10px;
-  height: 40px;
   border: none;
 }
-.item--full-width {
-  width: 85%;
+
+.check {
+  transition: transform 280ms ease-out 50ms;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #99E2D0;
+  width: 50px;
+  height: 66px;
+  border-radius: 0 18px 18px 0;
+  top: 0;
+  left: 100%;
 }
-.item:hover {
-  background: rgb(247, 247, 247);
+.check i {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  z-index: 10;
+}
+
+.picto {
+  margin-right: 10px;
+}
+
+@keyframes color-change {
+  0% {
+    color: white;
+  }
+  100% {
+    color: #9656DC;
+  }
+}
+.heart .fa-solid {
+  color: #9656DC;
+  animation-name: color-change;
+  animation-duration: 2s;
+}
+
+.heart:hover .fa-solid,
+.heart .fa-regular {
+  display: inline;
+}
+
+.heart:hover .fa-regular,
+.heart .fa-solid {
+  display: none;
 }
 
 .img-header {
@@ -81,21 +104,79 @@ h3 {
   object-fit: cover;
 }
 
-.picto {
-  margin-right: 10px;
+.item i {
+  transform: rotate(-720deg);
+}
+
+@keyframes apparition {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, 50px, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+.item {
+  padding: 13px;
+  box-shadow: 5px 5px 5px rgb(231, 231, 231);
+  border-radius: 18px;
+  margin-bottom: 20px;
+  font-size: 12px;
+  color: black;
+  background: white;
+  cursor: pointer;
+  height: 40px;
+  opacity: 0;
+  border: none;
+  overflow: hidden;
+  position: relative;
+  transition: transform 280ms ease-out 50ms;
+  animation: apparition 1s;
+  animation-fill-mode: forwards;
+}
+.item--full-width {
+  width: 100%;
+}
+.item:hover {
+  background: rgb(247, 247, 247);
+}
+.item:nth-child(1) {
+  animation-delay: 0.3s;
+}
+.item:nth-child(2) {
+  animation-delay: 0.6s;
+}
+.item:nth-child(3) {
+  animation-delay: 0.9s;
+}
+.item:hover .check {
+  transform: translateX(-100%);
+}
+.item:hover .dish-price {
+  transform: translateX(-220%);
+}
+.item:hover .dish-name {
+  max-width: calc(100% - 75px);
+}
+.item:hover i {
+  transform: rotate(0deg);
+  transition: transform 500ms;
 }
 
 .steps {
-  padding: 0 18px;
-  padding-left: 24px;
+  /*top right bottom left */
+  padding: 10px 20px;
 }
 .steps .step {
-  margin-bottom: 16px;
+  margin-bottom: 25px;
 }
 
 .step {
   position: relative;
-  font-weight: 600;
+  font-size: 15px;
+  font-weight: 500;
   padding: 28px 12px;
   background: #F7F7F7;
   box-shadow: 5px 5px 5px rgb(231, 231, 231);
@@ -128,8 +209,58 @@ h3 {
   color: #9656DC;
 }
 
+.tag {
+  display: inline-block;
+  background-color: #99E2D0;
+  color: #2b987d;
+  font-weight: bold;
+  padding: 5px 10px;
+  margin: 10px;
+  text-align: center;
+}
+@media (min-width: 400px) {
+  .tag {
+    left: 70%;
+  }
+}
+@media (min-width: 500px) {
+  .tag {
+    left: 75%;
+  }
+}
+@media (min-width: 600px) {
+  .tag {
+    left: 80%;
+  }
+}
+@media (min-width: 800px) {
+  .tag {
+    left: 85%;
+  }
+}
+@media (min-width: 1000px) {
+  .tag {
+    left: 87%;
+  }
+}
+@media (min-width: 1200px) {
+  .tag {
+    left: 90%;
+  }
+}
+@media (min-width: 1400px) {
+  .tag {
+    left: 91%;
+  }
+}
+@media (min-width: 1600px) {
+  .tag {
+    left: 92%;
+  }
+}
+
 header {
-  padding: 10px;
+  padding: 13px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -142,9 +273,9 @@ header i {
 }
 
 .logo {
-  width: 40%;
+  width: 50%;
   max-width: 200px;
-  margin: 20px;
+  margin: 5PX;
 }
 
 .search {
@@ -176,7 +307,7 @@ header i {
 }
 
 .maintext {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: bold;
   margin-left: 40px;
   margin-right: 40px;
@@ -186,7 +317,7 @@ header i {
 .undertext {
   color: #666;
   margin-bottom: 20px;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .btn_search {
@@ -196,18 +327,24 @@ header i {
 .search > form {
   position: relative;
   text-align: center;
+  font-size: 15px;
+  font-weight: bold;
 }
 
 .hero {
   text-align: center;
   background-color: rgb(247, 247, 247);
-  padding-top: 10px;
+  /*top right bottom left */
+  padding: 30px 30px 50px 30px;
   margin-top: -20px;
 }
 
 .item-list {
   display: flex;
   flex-direction: column;
+  padding-left: 13px;
+  padding-right: 26px;
+  margin-bottom: 10px;
 }
 
 ul {
@@ -226,13 +363,16 @@ a:hover {
 
 .card-title {
   font-family: "Shrikhand";
-  font-size: 22px;
+  font-size: 20px;
 }
 
 .card-container {
   background-color: rgb(247, 247, 247);
   margin-top: 40px;
-  padding: 20px 10px;
+  padding: 20px 20px 40px;
+}
+.card-container a {
+  text-decoration: none;
 }
 .card-container__rounded {
   border-radius: 40px 40px 0px 0px;
@@ -241,7 +381,7 @@ a:hover {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 10px;
+  padding: 13px;
 }
 .card-container_footer {
   display: flex;
@@ -258,6 +398,14 @@ a:hover {
   border-radius: 18px;
   background-color: #FFFFFF;
   box-shadow: 5px 5px 5px rgb(231, 231, 231);
+}
+.card-container_body_img {
+  position: relative;
+}
+.card-container_body_img .tag {
+  position: absolute;
+  top: 5px;
+  right: 5px;
 }
 .card-container_body_img img {
   border-radius: 20px 20px 0px 0px;
@@ -291,7 +439,7 @@ a:hover {
   color: #666;
   position: relative;
   margin-top: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   margin-left: 10px;
 }
 .dish-title:after {
@@ -304,10 +452,14 @@ a:hover {
   bottom: -4px;
 }
 .dish-name {
+  transition: all 280ms ease-out 50ms;
+  max-width: 100%;
   font-size: 14px;
   font-weight: bold;
-  text-align: left;
   padding-bottom: 5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .dish-detail {
   font-size: 12px;
@@ -316,8 +468,14 @@ a:hover {
   justify-content: space-between;
   color: #666;
 }
+.dish-desc {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
 .dish-price {
   font-weight: bold;
+  transition: transform 280ms ease-out 50ms;
 }
 
 .btn-menu {
@@ -356,6 +514,60 @@ footer i {
   font-size: 16px;
   font-family: "Shrikhand";
   margin-bottom: 10px;
+}
+
+.btn {
+  background: #9656DC;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 10rem;
+  width: 200px;
+}
+.btn:hover + .ball {
+  transform: translate(150px, -7vh);
+}
+.btn:hover + .boxes > .boxes--rotDegrees {
+  transform: rotate(0deg);
+}
+.btn:hover + .boxes > .boxes--rotTurns {
+  transform: rotate(0turn);
+}
+
+.boxes {
+  width: 100px;
+  height: 100px;
+}
+.boxes--rotDegrees {
+  transform: rotate(-360deg);
+  transition: transform 500ms ease-in-out;
+}
+.boxes--rotTurns {
+  background: pink;
+  transform: rotate(-1turn);
+  transition: transform 500ms ease-in-out;
+}
+
+.ball {
+  width: 200px;
+  height: 200px;
+  background: #9656DC;
+  margin-bottom: 1rem;
+  border-radius: 100px;
+  transform: scale(0.1);
+  transition: transform 330ms ease-in-out;
+  overflow: hidden;
+}
+.ball span {
+  display: inline-block;
+  transform: translateY(250%);
+  transition: transform 280ms ease-out 50ms;
+}
+
+.progress__bar {
+  border: 1px;
+  width: 50%;
+  height: 50px;
+  transform: scaleX(0);
 }
 
 /*# sourceMappingURL=style.css.map */

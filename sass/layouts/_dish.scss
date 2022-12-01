@@ -8,7 +8,7 @@
         color: $color-secondary-text;
         position: relative;
         margin-top: 20px;
-        margin-bottom: 10px;
+        margin-bottom: 15px;
         margin-left: 10px;
 
         &:after {
@@ -23,10 +23,14 @@
     }
 
     &-name {
+        transition: all 280ms ease-out 50ms;
+        max-width: 100%;
         font-size: $size-card-title;
         font-weight: bold;
-        text-align: left;
         padding-bottom: 5px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
     }
 
     &-detail {
@@ -38,11 +42,14 @@
     }
 
     &-desc {
-        
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
     }
 
     &-price {
         font-weight: bold;
+        transition: transform 280ms ease-out 50ms;
     }
 }
 

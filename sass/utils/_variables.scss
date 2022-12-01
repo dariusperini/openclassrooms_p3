@@ -13,15 +13,46 @@ $color-white: #FFFFFF;
 $color-shadow: rgb(231, 231, 231);
 
 /* PADDINGS */
-$default-padding: 10px;
+$default-padding: 13px;
+$default-padding2: 15px;
 $padding-footer: 10px;
 
 /* MARGINS */
 $default-margin: 20px;
 
 /* SIZES */
-$size-main-title: 22px;
-$size-secondary-title: 18px;
+$size-main-title: 20px;
+$size-secondary-title: 16px;
 $size-main-text: 16px;
 $size-card-title: 14px;
 $size-card-text: 12px;
+
+$item-height: 40px;
+
+/* MEDIA QUERIES */
+$tag-media-queries: (
+    400px: (
+        percent: 70%,
+    ),
+    500px: (
+        percent: 75%,
+    ),
+    600px: (
+        percent: 80%,
+    ),
+    800px: (
+        percent: 85%,
+    ),
+    1000px: (
+        percent: 87%,
+    ),
+    1200px: (
+        percent: 90%,
+    ),
+    1400px: (
+        percent: 91%,
+    ),
+    1600px: (
+        percent: 92%,
+    ),
+);

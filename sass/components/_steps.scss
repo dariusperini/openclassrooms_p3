@@ -1,15 +1,16 @@
 .steps {
-    padding: 0 18px;
-    padding-left: 24px;
+    /*top right bottom left */
+    padding: 10px 20px;
 
     .step {
-       margin-bottom: 16px;
+       margin-bottom: 25px;
     }
 }
 
 .step {
     position: relative;
-    font-weight: 600;
+    font-size: 15px;
+    font-weight: 500;
     padding: 28px 12px;
     background: #F7F7F7;
     @include shadow;

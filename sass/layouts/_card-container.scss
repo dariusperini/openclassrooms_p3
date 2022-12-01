@@ -20,7 +20,11 @@ a:hover {
 .card-container {
     background-color: $color-background-primary;
     margin-top: 40px;
-    padding: 20px 10px;
+    padding: 20px 20px 40px;
+
+    a {
+        text-decoration: none;
+    }
 
     &__rounded {
         border-radius: 40px 40px 0px 0px;
@@ -46,6 +50,15 @@ a:hover {
     &_body {
         &_article {
             @include card;
+        }
+
+        &_img {
+            position: relative;
+            .tag {
+                position: absolute;
+                top: 5px;
+                right: 5px;
+            }
         }
 
         &_img img{

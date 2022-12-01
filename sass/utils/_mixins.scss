@@ -1,5 +1,5 @@
-@mixin shadow {
-    box-shadow: 5px 5px 5px $color-shadow;
+@mixin shadow($color: $color-shadow) {
+    box-shadow: 5px 5px 5px $color;
 }
 
 @mixin border-radius {
@@ -14,22 +14,22 @@
     text-align: center;
 }
 
-@mixin item(
+@mixin btn(
     $text-color: $color-white,
     $background-color: $color-background-primary,
-    $hover-background-color: $color-secondary-lighter
+    $hover-background-color: $color-secondary-lighter,
+    $color-shadow: $color-shadow
     ) {
     padding: $default-padding;
-    @include shadow;
+    @include shadow($color-shadow);
     @include border-radius;
     margin-bottom: $default-margin;
     font-size: $size-card-text;
     color: $text-color;
     background: $background-color;
     cursor: pointer;
-    margin: 10px;
     &--full-width {
-        width: 85%;
+        width: 100%;
     }
     &:hover{
         background: $hover-background-color;
@@ -43,4 +43,12 @@
     @include border-radius;
     background-color: #FFFFFF;
     @include shadow;
+}
+
+@mixin tag-size($tag-media-queries) {
+    @each $size, $tag-media-query in $tag-media-queries {
+        @media (min-width: $size) {
+            left:map-get($tag-media-query, percent);
+        }
+    }
 }

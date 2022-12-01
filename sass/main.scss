@@ -4,10 +4,12 @@
 @import "./base/base";
 @import "./base/typography";
 @import "./components/buttons";
-@import "./components/items";
-@import "./components/images";
+@import "./components/check";
 @import "./components/icons";
+@import "./components/images";
+@import "./components/items";
 @import "./components/steps";
+@import "./components/tag";
 @import "./layouts/header";
 @import "./layouts/search";
 @import "./layouts/hero";
@@ -15,3 +17,5 @@
 @import "./layouts/card-container";
 @import "./layouts/dish";
 @import "./layouts/footer";
+
+@import "./components/test";

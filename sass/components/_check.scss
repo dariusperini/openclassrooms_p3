@@ -1,0 +1,20 @@
+.check {
+    transition: transform 280ms ease-out 50ms;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: $color-tertiary;
+    width: 50px;
+    height: $item-height + (2 * $default-padding);
+    border-radius: 0 18px 18px 0;
+    top: 0;
+    left: 100%;
+
+    i {
+        color: white;
+        font-weight: bold;
+        font-size: 20px;
+        z-index: 10;
+    }
+}

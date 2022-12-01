@@ -1,3 +1,10 @@
 .btn-primary {
-    @include item($color-white, linear-gradient($color-secondary, $color-primary),linear-gradient($color-primary, $color-secondary));
+    padding: 13px 20px;
+    box-shadow: 5px 5px 5px $color-shadow;
+    border-radius: 24px;
+    font-size: 15px;
+    color: $color-white;
+    background: linear-gradient($color-secondary, $color-primary);
+    cursor: pointer;
+    border: none;
 }

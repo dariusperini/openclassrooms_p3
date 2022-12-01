@@ -1,6 +1,7 @@
 .hero {
     text-align: center;
     background-color: $color-background-primary;
-    padding-top: $default-padding;
+    /*top right bottom left */
+    padding: 30px 30px 50px 30px;
     margin-top: -20px;
 }

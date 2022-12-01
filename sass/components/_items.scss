@@ -1,5 +1,52 @@
+.item i {
+    transform: rotate(-720deg);
+}
+
+@keyframes apparition {
+    0% {
+        opacity: 0;
+        transform: translate3d(0,50px,0);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate3d(0,0,0);
+    }
+}
+
 .item {
-    @include item(black, white, $color-background-primary);
-    height: 40px;
+    @include btn(black, white, $color-background-primary);
+    height: $item-height;
+    opacity: 0;
     border: none;
+    overflow: hidden;
+    position: relative;
+    transition: transform 280ms ease-out 50ms;
+    animation: apparition 1s;
+    animation-fill-mode: forwards;
+
+    @for $i from 1 through 3 {
+        &:nth-child(#{$i}) {
+            animation-delay: #{$i * 0.3}s;
+        }
+    }
+
+    &:hover {
+        .check {
+            transform: translateX(-100%);
+        }
+
+        .dish-price {
+            transform: translateX(-220%);
+        }
+
+        .dish-name {
+            max-width: calc(100% - 75px);
+        }
+
+        i {
+            transform: rotate(0deg);
+            transition: transform 500ms;
+        }
+    }
 }

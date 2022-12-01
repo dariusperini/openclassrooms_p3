@@ -1,4 +1,7 @@
 .item-list {
     display: flex;
     flex-direction: column;
+    padding-left: $default-padding;
+    padding-right: $default-padding * 2;
+    margin-bottom: 10px;
 }
