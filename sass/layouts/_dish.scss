@@ -1,8 +1,5 @@
+
 .dish {
-    &-section {
-
-    }
-
     &-title {
         text-transform: uppercase;
         color: $color-secondary-text;
@@ -10,6 +7,11 @@
         margin-top: 20px;
         margin-bottom: 15px;
         margin-left: 10px;
+        opacity: 0;
+        transition: transform 280ms ease-out 50ms;
+        animation: apparition 1s;
+        animation-fill-mode: forwards;
+
 
         &:after {
             content: '';
