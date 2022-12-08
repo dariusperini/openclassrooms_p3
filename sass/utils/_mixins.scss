@@ -44,11 +44,3 @@
     background-color: #FFFFFF;
     @include shadow;
 }
-
-@mixin tag-size($tag-media-queries) {
-    @each $size, $tag-media-query in $tag-media-queries {
-        @media (min-width: $size) {
-            left:map-get($tag-media-query, percent);
-        }
-    }
-}

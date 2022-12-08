@@ -1,8 +1,37 @@
+@keyframes slide {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, 50px, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(360deg);
+  }
+  100% {
+    transform: rotate(360deg);
+    opacity: 0;
+  }
+}
+@keyframes apparition {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
 /* COLORS */
 /* PADDINGS */
 /* MARGINS */
 /* SIZES */
-/* MEDIA QUERIES */
 body {
   background: #FFFFFF;
   font-family: "Roboto";
@@ -27,6 +56,14 @@ h3 {
   font-weight: normal;
 }
 
+.container {
+  opacity: 0;
+  transition: transform 280ms ease-out 50ms;
+  animation: apparition 500ms;
+  animation-delay: 3s;
+  animation-fill-mode: forwards;
+}
+
 @font-face {
   font-family: "Roboto";
   src: url("fonts/roboto/Roboto-Regular.ttf") format("truetype");
@@ -44,6 +81,9 @@ h3 {
   background: linear-gradient(#FF79DA, #9656DC);
   cursor: pointer;
   border: none;
+}
+.btn-primary:hover {
+  position: relative;
 }
 
 .check {
@@ -108,16 +148,6 @@ h3 {
   transform: rotate(-720deg);
 }
 
-@keyframes apparition {
-  0% {
-    opacity: 0;
-    transform: translate3d(0, 50px, 0);
-  }
-  100% {
-    opacity: 1;
-    transform: translate3d(0, 0, 0);
-  }
-}
 .item {
   padding: 13px;
   box-shadow: 5px 5px 5px rgb(231, 231, 231);
@@ -133,7 +163,7 @@ h3 {
   overflow: hidden;
   position: relative;
   transition: transform 280ms ease-out 50ms;
-  animation: apparition 1s;
+  animation: slide 1s;
   animation-fill-mode: forwards;
 }
 .item--full-width {
@@ -163,6 +193,18 @@ h3 {
 .item:hover i {
   transform: rotate(0deg);
   transition: transform 500ms;
+}
+
+.loader {
+  width: 256px;
+  height: 256px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -128px;
+  margin-top: -128px;
+  animation: spin 3s linear;
+  animation-fill-mode: forwards;
 }
 
 .steps {
@@ -217,46 +259,6 @@ h3 {
   padding: 5px 10px;
   margin: 10px;
   text-align: center;
-}
-@media (min-width: 400px) {
-  .tag {
-    left: 70%;
-  }
-}
-@media (min-width: 500px) {
-  .tag {
-    left: 75%;
-  }
-}
-@media (min-width: 600px) {
-  .tag {
-    left: 80%;
-  }
-}
-@media (min-width: 800px) {
-  .tag {
-    left: 85%;
-  }
-}
-@media (min-width: 1000px) {
-  .tag {
-    left: 87%;
-  }
-}
-@media (min-width: 1200px) {
-  .tag {
-    left: 90%;
-  }
-}
-@media (min-width: 1400px) {
-  .tag {
-    left: 91%;
-  }
-}
-@media (min-width: 1600px) {
-  .tag {
-    left: 92%;
-  }
 }
 
 header {
@@ -441,7 +443,6 @@ a:hover {
   margin-top: 20px;
   margin-bottom: 15px;
   margin-left: 10px;
-  opacity: 0;
   transition: transform 280ms ease-out 50ms;
   animation: apparition 1s;
   animation-fill-mode: forwards;

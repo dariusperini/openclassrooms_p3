@@ -21,3 +21,11 @@ h3 {
     color: $color-secondary-text;
     font-weight: normal;
 }
+
+.container {
+    opacity: 0;
+    transition: transform 280ms ease-out 50ms;
+    animation: apparition 500ms;
+    animation-delay: 3s;
+    animation-fill-mode: forwards;
+}

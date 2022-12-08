@@ -1,6 +1,7 @@
-@import "./utils/variables";
+@import "./utils/animations";
 @import "./utils/functions";
 @import "./utils/mixins";
+@import "./utils/variables";
 @import "./base/base";
 @import "./base/typography";
 @import "./components/buttons";
@@ -8,6 +9,7 @@
 @import "./components/icons";
 @import "./components/images";
 @import "./components/items";
+@import "./components/loader";
 @import "./components/steps";
 @import "./components/tag";
 @import "./layouts/header";
