@@ -364,7 +364,7 @@ header i {
   .item-list {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
   }
   .item-list .item {
     margin-right: 20px;
