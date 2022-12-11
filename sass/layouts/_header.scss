@@ -5,6 +5,12 @@ header {
     align-items: center;
     justify-content: center;
 
+    a {
+        position: absolute;
+        left: 15px;
+        top: -8px;
+    }
+
     i {
         position: absolute;
         left: 10px;

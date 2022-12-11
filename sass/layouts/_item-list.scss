@@ -1,7 +1,16 @@
 .item-list {
     display: flex;
     flex-direction: column;
-    padding-left: $default-padding;
-    padding-right: $default-padding * 2;
+    padding-right: $default-padding;
     margin-bottom: 10px;
+
+    @media screen and (min-width: 768px) {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+
+        .item {
+            margin-right: 20px;
+        }
+    }
 }

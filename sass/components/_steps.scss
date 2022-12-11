@@ -4,6 +4,13 @@
 
     .step {
        margin-bottom: 25px;
+       margin-left: 12px;
+    }
+
+    @media screen and (min-width: 768px) {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
     }
 }
 

@@ -38,9 +38,12 @@
 
 @mixin card {
     height: 199px;
-    padding: 5px;
     margin-bottom: 20px;
     @include border-radius;
     background-color: #FFFFFF;
     @include shadow;
+
+    h2, h3 {
+        font-size: 1rem;
+    }
 }

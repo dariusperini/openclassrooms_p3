@@ -213,6 +213,14 @@ h3 {
 }
 .steps .step {
   margin-bottom: 25px;
+  margin-left: 12px;
+}
+@media screen and (min-width: 768px) {
+  .steps {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
 }
 
 .step {
@@ -267,6 +275,11 @@ header {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+}
+header a {
+  position: absolute;
+  left: 15px;
+  top: -8px;
 }
 header i {
   position: absolute;
@@ -344,9 +357,18 @@ header i {
 .item-list {
   display: flex;
   flex-direction: column;
-  padding-left: 13px;
-  padding-right: 26px;
+  padding-right: 13px;
   margin-bottom: 10px;
+}
+@media screen and (min-width: 768px) {
+  .item-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .item-list .item {
+    margin-right: 20px;
+  }
 }
 
 ul {
@@ -383,7 +405,10 @@ a:hover {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 13px;
+}
+.card-container_header .heart {
+  position: relative;
+  left: -18px;
 }
 .card-container_footer {
   display: flex;
@@ -393,13 +418,22 @@ a:hover {
 .card-container_title {
   margin-bottom: 20px;
 }
+@media screen and (min-width: 768px) {
+  .card-container_body_articles {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
 .card-container_body_article {
   height: 199px;
-  padding: 5px;
   margin-bottom: 20px;
   border-radius: 18px;
   background-color: #FFFFFF;
   box-shadow: 5px 5px 5px rgb(231, 231, 231);
+}
+.card-container_body_article h2, .card-container_body_article h3 {
+  font-size: 1rem;
 }
 .card-container_body_img {
   position: relative;
@@ -442,7 +476,6 @@ a:hover {
   position: relative;
   margin-top: 20px;
   margin-bottom: 15px;
-  margin-left: 10px;
   transition: transform 280ms ease-out 50ms;
   animation: apparition 1s;
   animation-fill-mode: forwards;
@@ -493,14 +526,15 @@ footer {
   align-items: baseline;
   background-color: #535353;
   color: #FFFFFF;
-  padding: 10px;
+  padding: 20px;
 }
 footer ul {
   list-style-type: none;
 }
 footer a {
   color: #FFFFFF;
-  line-height: 1.5em;
+  line-height: 1.5rem;
+  font-size: 0.9rem;
 }
 footer i {
   display: inline-block;

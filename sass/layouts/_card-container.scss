@@ -34,7 +34,11 @@ a:hover {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-        padding: $default-padding;
+
+        .heart {
+            position: relative;
+            left: -18px;
+        }
     }
 
     &_footer {
@@ -48,6 +52,14 @@ a:hover {
     }
 
     &_body {
+        &_articles {
+            @media screen and (min-width: 768px) {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+            }
+        }
+
         &_article {
             @include card;
         }
