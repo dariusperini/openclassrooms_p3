@@ -42,6 +42,8 @@
     }
 
     &-desc {
+        transition: all 280ms ease-out 50ms;
+        max-width: 100%;
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;

@@ -126,6 +126,7 @@ h3 {
 
 .heart:hover .fa-solid,
 .heart .fa-regular {
+  cursor: pointer;
   display: inline;
 }
 
@@ -188,6 +189,9 @@ h3 {
   transform: translateX(-220%);
 }
 .item:hover .dish-name {
+  max-width: calc(100% - 75px);
+}
+.item:hover .dish-desc {
   max-width: calc(100% - 75px);
 }
 .item:hover i {
@@ -507,6 +511,8 @@ a:hover {
   color: #666;
 }
 .dish-desc {
+  transition: all 280ms ease-out 50ms;
+  max-width: 100%;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
