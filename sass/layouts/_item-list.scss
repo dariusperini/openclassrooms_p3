@@ -1,7 +1,7 @@
 .item-list {
     display: flex;
     flex-direction: column;
-    padding-right: $default-padding;
+    padding-right: 25px;
     margin-bottom: 10px;
 
     @media screen and (min-width: 768px) {

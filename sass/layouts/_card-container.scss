@@ -55,8 +55,7 @@ a:hover {
         &_articles {
             @media screen and (min-width: 768px) {
                 display: flex;
-                flex-direction: row;
-                justify-content: space-between;
+                justify-content: space-around;
             }
         }
 
@@ -98,8 +97,4 @@ a:hover {
         z-index: 1;
         margin-top: -40px;
     }
-}
-
-.card-menu {
-    padding-top: -40px;
 }

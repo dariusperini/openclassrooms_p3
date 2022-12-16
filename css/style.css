@@ -126,7 +126,6 @@ h3 {
 
 .heart:hover .fa-solid,
 .heart .fa-regular {
-  cursor: pointer;
   display: inline;
 }
 
@@ -235,6 +234,11 @@ h3 {
   background: #F7F7F7;
   box-shadow: 5px 5px 5px rgb(231, 231, 231);
   border-radius: 18px;
+}
+@media screen and (min-width: 768px) {
+  .step {
+    font-size: 13px;
+  }
 }
 .step .step__number {
   position: absolute;
@@ -361,7 +365,7 @@ header i {
 .item-list {
   display: flex;
   flex-direction: column;
-  padding-right: 13px;
+  padding-right: 25px;
   margin-bottom: 10px;
 }
 @media screen and (min-width: 768px) {
@@ -425,8 +429,7 @@ a:hover {
 @media screen and (min-width: 768px) {
   .card-container_body_articles {
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
   }
 }
 .card-container_body_article {
@@ -468,10 +471,6 @@ a:hover {
   position: relative;
   z-index: 1;
   margin-top: -40px;
-}
-
-.card-menu {
-  padding-top: -40px;
 }
 
 .dish-title {

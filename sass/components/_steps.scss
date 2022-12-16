@@ -17,12 +17,14 @@
 .step {
     position: relative;
     font-size: 15px;
+    @media screen and (min-width: 768px) {
+        font-size: 13px;
+    }
     font-weight: 500;
     padding: 28px 12px;
     background: #F7F7F7;
     @include shadow;
     @include border-radius;
-    //text-align: center;
 
     .step__number {
         position: absolute;
