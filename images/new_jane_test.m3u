@@ -1,10 +1,26 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - M6 MUSIC FHD" tvg-logo="" group-title="Chaines Laurent",FR - M6 MUSIC FHD
+http://te9chbila.com:80/735927340011458/5015663117/62685
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - MCM TOP FHD" tvg-logo="" group-title="Chaines Laurent",FR - MCM TOP FHD
+http://te9chbila.com:80/735927340011458/5015663117/57070
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - NRJ HITS FHD" tvg-logo="" group-title="Chaines Laurent",FR - NRJ HITS FHD
+http://te9chbila.com:80/735927340011458/5015663117/57073
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - RFM TV FHD" tvg-logo="" group-title="Chaines Laurent",FR - RFM TV FHD
+http://te9chbila.com:80/735927340011458/5015663117/62655
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - COMEDIE  FHD" tvg-logo="" group-title="Chaines Laurent",FR - COMEDIE  FHD
 http://te9chbila.com:80/735927340011458/5015663117/57001
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - SCIENCE&VIE FHD" tvg-logo="" group-title="Chaines Laurent",FR - SCIENCE&VIE FHD
 http://te9chbila.com:80/735927340011458/5015663117/57082
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - DISCOVERY ID FHD" tvg-logo="" group-title="Chaines Laurent",FR - DISCOVERY ID FHD
 http://te9chbila.com:80/735927340011458/5015663117/62682
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - CANAL+ DOCS FHD" tvg-logo="" group-title="Chaines Laurent",FR - CANAL+ DOCS FHD
+http://te9chbila.com:80/735927340011458/5015663117/285950
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - TOUTE L HISTOIRE FHD" tvg-logo="" group-title="Chaines Laurent",FR - TOUTE L HISTOIRE FHD
+http://te9chbila.com:80/735927340011458/5015663117/57080
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - DISCOVERY INVESTIGATION FHD" tvg-logo="" group-title="Chaines Laurent",FR - DISCOVERY INVESTIGATION FHD
+http://te9chbila.com:80/735927340011458/5015663117/57089
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - CRIME DISTRICT FHD" tvg-logo="" group-title="Chaines Laurent",FR - CRIME DISTRICT FHD
+http://te9chbila.com:80/735927340011458/5015663117/62679
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - 13EME RUE FHD" tvg-logo="" group-title="Chaines Laurent",FR - 13EME RUE FHD
 http://te9chbila.com:80/735927340011458/5015663117/56994
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - 01 TV FHD" tvg-logo="" group-title="Chaines Laurent",FR - 01 TV FHD
@@ -21,24 +37,14 @@ http://te9chbila.com:80/735927340011458/5015663117/56842
 http://te9chbila.com:80/735927340011458/5015663117/57096
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - ARTE FHD" tvg-logo="" group-title="Chaines Laurent",FR - ARTE FHD
 http://te9chbila.com:80/735927340011458/5015663117/57002
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - BFM PARIS FHD" tvg-logo="" group-title="Chaines Laurent",FR - BFM PARIS FHD
-http://te9chbila.com:80/735927340011458/5015663117/56973
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - BFM TV FHD ◉" tvg-logo="" group-title="Chaines Laurent",FR - BFM TV FHD ◉
-http://te9chbila.com:80/735927340011458/5015663117/57007
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - C NEWS FHD" tvg-logo="" group-title="Chaines Laurent",FR - C NEWS FHD
-http://te9chbila.com:80/735927340011458/5015663117/56878
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - C STAR FHD" tvg-logo="" group-title="Chaines Laurent",FR - C STAR FHD
 http://te9chbila.com:80/735927340011458/5015663117/56971
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - C8 FHD ◉" tvg-logo="" group-title="Chaines Laurent",FR - C8 FHD ◉
 http://te9chbila.com:80/735927340011458/5015663117/60132
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - CANAL J FHD" tvg-logo="" group-title="Chaines Laurent",FR - CANAL J FHD
-http://te9chbila.com:80/735927340011458/5015663117/56767
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - CANAL NEWS FHD" tvg-logo="" group-title="Chaines Laurent",FR - CANAL NEWS FHD
 http://te9chbila.com:80/735927340011458/5015663117/60118
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - CANAL+ CINEMA FHD" tvg-logo="" group-title="Chaines Laurent",FR - CANAL+ CINEMA FHD
 http://te9chbila.com:80/735927340011458/5015663117/56840
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - CANAL+ DOCS FHD" tvg-logo="" group-title="Chaines Laurent",FR - CANAL+ DOCS FHD
-http://te9chbila.com:80/735927340011458/5015663117/285950
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - CANAL+ FHD ◉" tvg-logo="" group-title="Chaines Laurent",FR - CANAL+ FHD ◉
 http://te9chbila.com:80/735927340011458/5015663117/56993
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - CANAL+ GRAND ECRAN FHD" tvg-logo="" group-title="Chaines Laurent",FR - CANAL+ GRAND ECRAN FHD
@@ -47,8 +53,6 @@ http://te9chbila.com:80/735927340011458/5015663117/288408
 http://te9chbila.com:80/735927340011458/5015663117/56838
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - CANAL+ SERIES FHD" tvg-logo="" group-title="Chaines Laurent",FR - CANAL+ SERIES FHD
 http://te9chbila.com:80/735927340011458/5015663117/56837
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - CARTOON NETWORK FHD" tvg-logo="" group-title="Chaines Laurent",FR - CARTOON NETWORK FHD
-http://te9chbila.com:80/735927340011458/5015663117/56759
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - CHERIE 25 FHD" tvg-logo="" group-title="Chaines Laurent",FR - CHERIE 25 FHD
 http://te9chbila.com:80/735927340011458/5015663117/60126
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - CINE  EMOTION FHD" tvg-logo="" group-title="Chaines Laurent",FR - CINE  EMOTION FHD
@@ -65,18 +69,10 @@ http://te9chbila.com:80/735927340011458/5015663117/56851
 http://te9chbila.com:80/735927340011458/5015663117/56850
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - COMEDY CENTRAL FHD" tvg-logo="" group-title="Chaines Laurent",FR - COMEDY CENTRAL FHD
 http://te9chbila.com:80/735927340011458/5015663117/56834
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - CRIME DISTRICT FHD" tvg-logo="" group-title="Chaines Laurent",FR - CRIME DISTRICT FHD
-http://te9chbila.com:80/735927340011458/5015663117/62679
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - DISCOVERY INVESTIGATION FHD" tvg-logo="" group-title="Chaines Laurent",FR - DISCOVERY INVESTIGATION FHD
-http://te9chbila.com:80/735927340011458/5015663117/57089
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - DISCOVERY SCIENCE FHD" tvg-logo="" group-title="Chaines Laurent",FR - DISCOVERY SCIENCE FHD
 http://te9chbila.com:80/735927340011458/5015663117/57085
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - DISNEY CHANNEL FHD" tvg-logo="" group-title="Chaines Laurent",FR - DISNEY CHANNEL FHD
-http://te9chbila.com:80/735927340011458/5015663117/56763
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - E! ENTERTAINMENT FHD" tvg-logo="" group-title="Chaines Laurent",FR - E! ENTERTAINMENT FHD
 http://te9chbila.com:80/735927340011458/5015663117/57097
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - EURONEWS FRENCH FHD" tvg-logo="" group-title="Chaines Laurent",FR - EURONEWS FRENCH FHD
-http://te9chbila.com:80/735927340011458/5015663117/56873
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - FRANCE 2 FHD ◉" tvg-logo="" group-title="Chaines Laurent",FR - FRANCE 2 FHD ◉
 http://te9chbila.com:80/735927340011458/5015663117/57003
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - FRANCE 3 FHD ◉" tvg-logo="" group-title="Chaines Laurent",FR - FRANCE 3 FHD ◉
@@ -89,30 +85,14 @@ http://te9chbila.com:80/735927340011458/5015663117/57005
 http://te9chbila.com:80/735927340011458/5015663117/56969
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - GAME ONE FHD" tvg-logo="" group-title="Chaines Laurent",FR - GAME ONE FHD
 http://te9chbila.com:80/735927340011458/5015663117/56995
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - GULLI FHD" tvg-logo="" group-title="Chaines Laurent",FR - GULLI FHD
-http://te9chbila.com:80/735927340011458/5015663117/60119
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - HISTOIRE FHD" tvg-logo="" group-title="Chaines Laurent",FR - HISTOIRE FHD
 http://te9chbila.com:80/735927340011458/5015663117/62676
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - LA CHAINE METEO FHD" tvg-logo="" group-title="Chaines Laurent",FR - LA CHAINE METEO FHD
-http://te9chbila.com:80/735927340011458/5015663117/56871
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - LCI FHD" tvg-logo="" group-title="Chaines Laurent",FR - LCI FHD
-http://te9chbila.com:80/735927340011458/5015663117/56877
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - LCP FHD" tvg-logo="" group-title="Chaines Laurent",FR - LCP FHD
-http://te9chbila.com:80/735927340011458/5015663117/56876
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - M6  FHD ◉" tvg-logo="" group-title="Chaines Laurent",FR - M6  FHD ◉
 http://te9chbila.com:80/735927340011458/5015663117/57072
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - M6 MUSIC FHD" tvg-logo="" group-title="Chaines Laurent",FR - M6 MUSIC FHD
-http://te9chbila.com:80/735927340011458/5015663117/62685
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - MANGAS FHD" tvg-logo="" group-title="Chaines Laurent",FR - MANGAS FHD
-http://te9chbila.com:80/735927340011458/5015663117/63845
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - MCM TOP FHD" tvg-logo="" group-title="Chaines Laurent",FR - MCM TOP FHD
-http://te9chbila.com:80/735927340011458/5015663117/57070
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - NAT GEO WILD FHD" tvg-logo="" group-title="Chaines Laurent",FR - NAT GEO WILD FHD
 http://te9chbila.com:80/735927340011458/5015663117/57088
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - NATIONAL GEO FHD" tvg-logo="" group-title="Chaines Laurent",FR - NATIONAL GEO FHD
 http://te9chbila.com:80/735927340011458/5015663117/57079
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - NRJ HITS FHD" tvg-logo="" group-title="Chaines Laurent",FR - NRJ HITS FHD
-http://te9chbila.com:80/735927340011458/5015663117/57073
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - OCS CHOC FHD" tvg-logo="" group-title="Chaines Laurent",FR - OCS CHOC FHD
 http://te9chbila.com:80/735927340011458/5015663117/56974
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - OCS CITY FHD" tvg-logo="" group-title="Chaines Laurent",FR - OCS CITY FHD
@@ -135,8 +115,6 @@ http://te9chbila.com:80/735927340011458/5015663117/57095
 http://te9chbila.com:80/735927340011458/5015663117/57092
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - POLAR+ FHD" tvg-logo="" group-title="Chaines Laurent",FR - POLAR+ FHD
 http://te9chbila.com:80/735927340011458/5015663117/56845
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - RFM TV FHD" tvg-logo="" group-title="Chaines Laurent",FR - RFM TV FHD
-http://te9chbila.com:80/735927340011458/5015663117/62655
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - RMC DECOUVERTE FHD" tvg-logo="" group-title="Chaines Laurent",FR - RMC DECOUVERTE FHD
 http://te9chbila.com:80/735927340011458/5015663117/57093
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - RMC STORY FHD" tvg-logo="" group-title="Chaines Laurent",FR - RMC STORY FHD
@@ -149,8 +127,6 @@ http://te9chbila.com:80/735927340011458/5015663117/56833
 http://te9chbila.com:80/735927340011458/5015663117/56830
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - TCM CINEMA FHD" tvg-logo="" group-title="Chaines Laurent",FR - TCM CINEMA FHD
 http://te9chbila.com:80/735927340011458/5015663117/56844
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - TELE TOON  FHD" tvg-logo="" group-title="Chaines Laurent",FR - TELE TOON  FHD
-http://te9chbila.com:80/735927340011458/5015663117/56771
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - TEVA FHD" tvg-logo="" group-title="Chaines Laurent",FR - TEVA FHD
 http://te9chbila.com:80/735927340011458/5015663117/56999
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - TF1 FHD ◉" tvg-logo="" group-title="Chaines Laurent",FR - TF1 FHD ◉
@@ -165,10 +141,6 @@ http://te9chbila.com:80/735927340011458/5015663117/60130
 http://te9chbila.com:80/735927340011458/5015663117/56848
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - TMC PLUS 1 FHD" tvg-logo="" group-title="Chaines Laurent",FR - TMC PLUS 1 FHD
 http://te9chbila.com:80/735927340011458/5015663117/310590
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - TOONAMI FHD" tvg-logo="" group-title="Chaines Laurent",FR - TOONAMI FHD
-http://te9chbila.com:80/735927340011458/5015663117/56768
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - TOUTE L HISTOIRE FHD" tvg-logo="" group-title="Chaines Laurent",FR - TOUTE L HISTOIRE FHD
-http://te9chbila.com:80/735927340011458/5015663117/57080
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - TV BREIZH FHD" tvg-logo="" group-title="Chaines Laurent",FR - TV BREIZH FHD
 http://te9chbila.com:80/735927340011458/5015663117/56987
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - TV5 MONDE FHD ◉" tvg-logo="" group-title="Chaines Laurent",FR - TV5 MONDE FHD ◉
@@ -177,6 +149,34 @@ http://te9chbila.com:80/735927340011458/5015663117/56975
 http://te9chbila.com:80/735927340011458/5015663117/60133
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - WARNER TV FHD" tvg-logo="" group-title="Chaines Laurent",FR - WARNER TV FHD
 http://te9chbila.com:80/735927340011458/5015663117/56843
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - CANAL J FHD" tvg-logo="" group-title="Chaines Laurent",FR - CANAL J FHD
+http://te9chbila.com:80/735927340011458/5015663117/56767
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - DISNEY CHANNEL FHD" tvg-logo="" group-title="Chaines Laurent",FR - DISNEY CHANNEL FHD
+http://te9chbila.com:80/735927340011458/5015663117/56763
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - GULLI FHD" tvg-logo="" group-title="Chaines Laurent",FR - GULLI FHD
+http://te9chbila.com:80/735927340011458/5015663117/60119
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - MANGAS FHD" tvg-logo="" group-title="Chaines Laurent",FR - MANGAS FHD
+http://te9chbila.com:80/735927340011458/5015663117/63845
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - TELE TOON  FHD" tvg-logo="" group-title="Chaines Laurent",FR - TELE TOON  FHD
+http://te9chbila.com:80/735927340011458/5015663117/56771
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - TOONAMI FHD" tvg-logo="" group-title="Chaines Laurent",FR - TOONAMI FHD
+http://te9chbila.com:80/735927340011458/5015663117/56768
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - CARTOON NETWORK FHD" tvg-logo="" group-title="Chaines Laurent",FR - CARTOON NETWORK FHD
+http://te9chbila.com:80/735927340011458/5015663117/56759
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - BFM PARIS FHD" tvg-logo="" group-title="Chaines Laurent",FR - BFM PARIS FHD
+http://te9chbila.com:80/735927340011458/5015663117/56973
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - BFM TV FHD ◉" tvg-logo="" group-title="Chaines Laurent",FR - BFM TV FHD ◉
+http://te9chbila.com:80/735927340011458/5015663117/57007
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - C NEWS FHD" tvg-logo="" group-title="Chaines Laurent",FR - C NEWS FHD
+http://te9chbila.com:80/735927340011458/5015663117/56878
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - EURONEWS FRENCH FHD" tvg-logo="" group-title="Chaines Laurent",FR - EURONEWS FRENCH FHD
+http://te9chbila.com:80/735927340011458/5015663117/56873
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - LA CHAINE METEO FHD" tvg-logo="" group-title="Chaines Laurent",FR - LA CHAINE METEO FHD
+http://te9chbila.com:80/735927340011458/5015663117/56871
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - LCI FHD" tvg-logo="" group-title="Chaines Laurent",FR - LCI FHD
+http://te9chbila.com:80/735927340011458/5015663117/56877
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - LCP FHD" tvg-logo="" group-title="Chaines Laurent",FR - LCP FHD
+http://te9chbila.com:80/735927340011458/5015663117/56876
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - M6 MUSIC FHD" tvg-logo="" group-title="Musique",FR - M6 MUSIC FHD
 http://te9chbila.com:80/735927340011458/5015663117/62685
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR - MCM TOP FHD" tvg-logo="" group-title="Musique",FR - MCM TOP FHD
