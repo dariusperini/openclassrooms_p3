@@ -1,56 +1,56 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="|FR| NRJ HITS FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/NRJ_HITS.png" group-title="Toutes les chaines",|FR| NRJ HITS FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127343
 #EXTINF:-1 tvg-id="m6music.fr" tvg-name="|FR| M6 MUSIC FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/M6_MUSIC.png" group-title="Toutes les chaines",|FR| M6 MUSIC FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127377
+#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="|FR| RFM TV FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/RFM_TV.png" group-title="Toutes les chaines",|FR| RFM TV FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127349
 #EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="|FR| MCM TOP FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/" group-title="Toutes les chaines",|FR| MCM TOP FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127379
 #EXTINF:-1 tvg-id="mtvhitsfrance.fr" tvg-name="|FR| MTV HITS FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/MTV_HITS.png" group-title="Toutes les chaines",|FR| MTV HITS FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127381
-#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="|FR| NRJ HITS FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/NRJ_HITS.png" group-title="Toutes les chaines",|FR| NRJ HITS FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127343
-#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="|FR| RFM TV FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/RFM_TV.png" group-title="Toutes les chaines",|FR| RFM TV FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127349
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127348
 #EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="|FR| COMEDIE+  FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/COMEDIE+.png" group-title="Toutes les chaines",|FR| COMEDIE+  FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127164
 #EXTINF:-1 tvg-id="comedycentral.fr" tvg-name="|FR| COMEDY CENTRAL FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/COMEDY_CENTRAL.png" group-title="Toutes les chaines",|FR| COMEDY CENTRAL FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127178
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="Toutes les chaines",|FR| ANIMAUX FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127051
 #EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="|FR| DISCOVERY FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/" group-title="Toutes les chaines",|FR| DISCOVERY FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127040
+#EXTINF:-1 tvg-id="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/INVESTIGATION_DISCOVERY_HD.png" group-title="Toutes les chaines",|FR| DISCOVERY INVESTIGATION FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127042
 #EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="|FR| DISCOVERY SCIENCE FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/Discovery_Sci_HD.png" group-title="Toutes les chaines",|FR| DISCOVERY SCIENCE FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127041
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="|FR| HISTOIRE TV FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/HISTOIRE_TV.png" group-title="Toutes les chaines",|FR| HISTOIRE TV FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127045
 #EXTINF:-1 tvg-id="natgeo.fr" tvg-name="|FR| NAT GEO FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/NATIONAL_GEO.png" group-title="Toutes les chaines",|FR| NAT GEO FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127038
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="|FR| NAT GEO WILD FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/NATIONAL_GEOGRAPHIC_WILD.png" group-title="Toutes les chaines",|FR| NAT GEO WILD FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127039
 #EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="|FR| PLANETE+ A&E FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+A_end_E.png" group-title="Toutes les chaines",|FR| PLANETE+ A&E FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127036
+#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="|FR| PLANETE+ CI FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+CI.png" group-title="Toutes les chaines",|FR| PLANETE+ CI FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127037
 #EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="|FR| PLANETE+ FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+.png" group-title="Toutes les chaines",|FR| PLANETE+ FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127035
 #EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="|FR| RMC DECOUVERTE FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/RMC_DECOUVERTE.png" group-title="Toutes les chaines",|FR| RMC DECOUVERTE FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127049
-#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="|FR| RMC STORY FHD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="Toutes les chaines",|FR| RMC STORY FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127290
 #EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="|FR| SCIENCE & VIE TV FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/Science_et_Vie.png" group-title="Toutes les chaines",|FR| SCIENCE & VIE TV FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127048
-#EXTINF:-1 tvg-id="discoveryinvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/INVESTIGATION_DISCOVERY_HD.png" group-title="Toutes les chaines",|FR| DISCOVERY INVESTIGATION FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127042
-#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="|FR| CRIME DISTRICT FHD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_D7_4EE8_55F_DDE0000_0_0_0.png" group-title="Toutes les chaines",|FR| CRIME DISTRICT FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127229
-#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="|FR| PLANETE+ CI FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/PLANETE+CI.png" group-title="Toutes les chaines",|FR| PLANETE+ CI FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127037
-#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="|FR| NAT GEO WILD FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/NATIONAL_GEOGRAPHIC_WILD.png" group-title="Toutes les chaines",|FR| NAT GEO WILD FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127039
-#EXTINF:-1 tvg-id="animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="Toutes les chaines",|FR| ANIMAUX FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127051
-#EXTINF:-1 tvg-id="histoire.fr" tvg-name="|FR| HISTOIRE TV FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/HISTOIRE_TV.png" group-title="Toutes les chaines",|FR| HISTOIRE TV FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127045
 #EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="|FR| TOUTE L HISTOIRE FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/Toute_L_Histoire.png" group-title="Toutes les chaines",|FR| TOUTE L HISTOIRE FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127046
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="|FR| USHUAIA TV FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/USHUAIA_TV.png" group-title="Toutes les chaines",|FR| USHUAIA TV FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127050
+#EXTINF:-1 tvg-id="action.fr" tvg-name="|FR| ACTION FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| ACTION FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127232
 #EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| CANAL+ CINEMA FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126810
 #EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="|FR| CANAL+ DECALE FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| CANAL+ DECALE FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126811
 #EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="|FR| CANAL+ FAMILY FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| CANAL+ FAMILY FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126812
-#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="|FR| CANAL+ FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| CANAL+ FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126809
+#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="|FR| CANAL+ SERIES FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| CANAL+ SERIES FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126813
 #EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="|FR| CINE+ CLASSIC FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| CINE+ CLASSIC FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127220
 #EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| CINE+ CLUB FHD
@@ -63,6 +63,8 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127218
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127216
 #EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="|FR| CINE+ PREMIER FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| CINE+ PREMIER FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127215
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="|FR| CRIME DISTRICT FHD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_D7_4EE8_55F_DDE0000_0_0_0.png" group-title="Toutes les chaines",|FR| CRIME DISTRICT FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127229
 #EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="|FR| OCS CHOC FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BC_43C_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| OCS CHOC FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127223
 #EXTINF:-1 tvg-id="ocscity.fr" tvg-name="|FR| OCS CITY FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226D_438_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| OCS CITY FHD
@@ -71,8 +73,6 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127222
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127224
 #EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="|FR| OCS MAX FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226E_438_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| OCS MAX FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127221
-#EXTINF:-1 tvg-id="action.fr" tvg-name="|FR| ACTION FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| ACTION FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127232
 #EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| PARAMOUNT CHANNEL FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127230
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| PARAMOUNT DECALE FHD" tvg-logo="" group-title="Toutes les chaines",|FR| PARAMOUNT DECALE FHD
@@ -81,12 +81,8 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127231
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127228
 #EXTINF:-1 tvg-id="tcm.fr" tvg-name="|FR| TCM CINEMA FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AE_43E_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| TCM CINEMA FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127233
-#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="|FR| CANAL+ SERIES FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| CANAL+ SERIES FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126813
-#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="|FR| SERIE CLUB FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/SERIE_CLUB.png" group-title="Toutes les chaines",|FR| SERIE CLUB FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127171
-#EXTINF:-1 tvg-id="syfy.fr" tvg-name="|FR| SYFY FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/Syfy_HD.png" group-title="Toutes les chaines",|FR| SYFY FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127165
+#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="|FR| WARNER TV FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| WARNER TV FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127226
 #EXTINF:-1 tvg-id="13emerue.fr" tvg-name="|FR| 13EME RUE FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/13eme_Rue.png" group-title="Toutes les chaines",|FR| 13EME RUE FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127167
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR| 6TER FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| 6TER FHD
@@ -99,6 +95,8 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127281
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127175
 #EXTINF:-1 tvg-id="c8.fr" tvg-name="|FR| C8 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2334_442_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| C8 FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127287
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="|FR| CANAL+ FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| CANAL+ FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126809
 #EXTINF:-1 tvg-id="cherie25.fr" tvg-name="|FR| CHERIE 25 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| CHERIE 25 FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127291
 #EXTINF:-1 tvg-id="clique.fr" tvg-name="|FR| CLIQUE TV FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/CLIQUE_TV.png" group-title="Toutes les chaines",|FR| CLIQUE TV FHD
@@ -115,18 +113,20 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127276
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127278
 #EXTINF:-1 tvg-id="france5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| FRANCE 5 FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127279
-#EXTINF:-1 tvg-id="gameone.fr" tvg-name="|FR| GAME ONE FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/GAMEONE.png" group-title="Toutes les chaines",|FR| GAME ONE FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127119
-#EXTINF:-1 tvg-id="jone.fr" tvg-name="|FR| J ONE FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/J-ONE.png" group-title="Toutes les chaines",|FR| J ONE FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127118
 #EXTINF:-1 tvg-id="m6.fr" tvg-name="|FR| M6 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| M6 FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127282
 #EXTINF:-1 tvg-id="nrj12.fr" tvg-name="|FR| NRJ 12 FHD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="Toutes les chaines",|FR| NRJ 12 FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127284
 #EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="|FR| PARIS PREMIERE FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/PARIS_PREMIERE.png" group-title="Toutes les chaines",|FR| PARIS PREMIERE FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127172
+#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="|FR| RMC STORY FHD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="Toutes les chaines",|FR| RMC STORY FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127290
 #EXTINF:-1 tvg-id="rtl9.fr" tvg-name="|FR| RTL9 FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/RTL9.png" group-title="Toutes les chaines",|FR| RTL9 FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127169
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="|FR| SERIE CLUB FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/SERIE_CLUB.png" group-title="Toutes les chaines",|FR| SERIE CLUB FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127171
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="|FR| SYFY FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/Syfy_HD.png" group-title="Toutes les chaines",|FR| SYFY FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127165
 #EXTINF:-1 tvg-id="teva.fr" tvg-name="|FR| TEVA FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/TEVA.png" group-title="Toutes les chaines",|FR| TEVA FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127168
 #EXTINF:-1 tvg-id="tf1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| TF1 FHD
@@ -139,16 +139,10 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127285
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127289
 #EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="|FR| TV BREIZH FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/TV_BREIZH.png" group-title="Toutes les chaines",|FR| TV BREIZH FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127173
-#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="|FR| TV5 MONDE FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B6_43E_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| TV5 MONDE FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126760
-#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="|FR| USHUAIA TV FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/USHUAIA_TV.png" group-title="Toutes les chaines",|FR| USHUAIA TV FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127050
 #EXTINF:-1 tvg-id="vicetv.fr" tvg-name="|FR| VICELAND FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/VICETV.png" group-title="Toutes les chaines",|FR| VICELAND FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127174
 #EXTINF:-1 tvg-id="w9.fr" tvg-name="|FR| W9 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2458_440_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| W9 FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127283
-#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="|FR| WARNER TV FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| WARNER TV FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127226
 #EXTINF:-1 tvg-id="bfmbusiness.fr" tvg-name="|FR| BFM BUSINESS FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_2_2397_44A_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| BFM BUSINESS FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126754
 #EXTINF:-1 tvg-id="bfmparis.fr" tvg-name="|FR| BFM PARIS FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/bfmparis.png" group-title="Toutes les chaines",|FR| BFM PARIS FHD
@@ -167,6 +161,8 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126750
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126756
 #EXTINF:-1 tvg-id="lachaineparlementaire.fr" tvg-name="|FR| LCP FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2337_442_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| LCP FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126757
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="|FR| TV5 MONDE FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B6_43E_1_C00000_0_0_0.png" group-title="Toutes les chaines",|FR| TV5 MONDE FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126760
 #EXTINF:-1 tvg-id="boing.fr" tvg-name="|FR| BOING FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/BOING.png" group-title="Toutes les chaines",|FR| BOING FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127109
 #EXTINF:-1 tvg-id="boomerang.fr" tvg-name="|FR| BOOMERANG FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/BOOMERANG.png" group-title="Toutes les chaines",|FR| BOOMERANG FHD
@@ -183,8 +179,12 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127102
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127101
 #EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="|FR| DISNEY JUNIOR FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/DISNEYJUNIOR.png" group-title="Toutes les chaines",|FR| DISNEY JUNIOR FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127104
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="|FR| GAME ONE FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/GAMEONE.png" group-title="Toutes les chaines",|FR| GAME ONE FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127119
 #EXTINF:-1 tvg-id="gulli.fr" tvg-name="|FR| GULLI FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/GULLI.png" group-title="Toutes les chaines",|FR| GULLI FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127114
+#EXTINF:-1 tvg-id="jone.fr" tvg-name="|FR| J ONE FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/J-ONE.png" group-title="Toutes les chaines",|FR| J ONE FHD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127118
 #EXTINF:-1 tvg-id="mangas.fr" tvg-name="|FR| MANGAS FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/MANGAS.png" group-title="Toutes les chaines",|FR| MANGAS FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127117
 #EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="|FR| NICKELODEON FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/NICKELODEON.png" group-title="Toutes les chaines",|FR| NICKELODEON FHD
@@ -237,17 +237,17 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126947
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126919
 #EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="|FR| RMC SPORT 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/9401.png" group-title="Toutes les chaines",|FR| RMC SPORT 2 FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126920
-#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="|FR| NRJ HITS FHD " tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/NRJ_HITS.png" group-title="Musique",|FR| NRJ HITS FHD 
+#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="|FR| NRJ HITS FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/NRJ_HITS.png" group-title="Musique",|FR| NRJ HITS FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127343
 #EXTINF:-1 tvg-id="m6music.fr" tvg-name="|FR| M6 MUSIC FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/M6_MUSIC.png" group-title="Musique",|FR| M6 MUSIC FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127377
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127344
 #EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="|FR| RFM TV FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/RFM_TV.png" group-title="Musique",|FR| RFM TV FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127349
 #EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="|FR| MCM TOP FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/" group-title="Musique",|FR| MCM TOP FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127379
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127346
 #EXTINF:-1 tvg-id="mtvhitsfrance.fr" tvg-name="|FR| MTV HITS FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/MUSIC/MTV_HITS.png" group-title="Musique",|FR| MTV HITS FHD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127381
-#EXTINF:-1 tvg-id="animaux.fr" tvg-name="|FR| ANIMAUX FHD " tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="Documentaires",|FR| ANIMAUX FHD 
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127348
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/ANIMAUX.png" group-title="Documentaires",|FR| ANIMAUX FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127051
 #EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="|FR| NAT GEO WILD FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/NATIONAL_GEOGRAPHIC_WILD.png" group-title="Documentaires",|FR| NAT GEO WILD FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127039
@@ -275,7 +275,7 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127037
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127045
 #EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="|FR| TOUTE L HISTOIRE FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/Toute_L_Histoire.png" group-title="Documentaires",|FR| TOUTE L HISTOIRE FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127046
-#EXTINF:-1 tvg-id="action.fr" tvg-name="|FR| ACTION FHD " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="Cinéma/Séries",|FR| ACTION FHD 
+#EXTINF:-1 tvg-id="action.fr" tvg-name="|FR| ACTION FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="Cinéma/Séries",|FR| ACTION FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127232
 #EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="|FR| CANAL+ CINEMA FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="Cinéma/Séries",|FR| CANAL+ CINEMA FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126810
@@ -319,7 +319,7 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127228
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127233
 #EXTINF:-1 tvg-id="warnertv.fr" tvg-name="|FR| WARNER TV FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="Cinéma/Séries",|FR| WARNER TV FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127226
-#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="|FR| COMEDIE+  FHD " tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/COMEDIE+.png" group-title="TV divers",|FR| COMEDIE+  FHD 
+#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="|FR| COMEDIE+  FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/COMEDIE+.png" group-title="TV divers",|FR| COMEDIE+  FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127164
 #EXTINF:-1 tvg-id="comedycentral.fr" tvg-name="|FR| COMEDY CENTRAL FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/COMEDY_CENTRAL.png" group-title="TV divers",|FR| COMEDY CENTRAL FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127178
@@ -383,7 +383,7 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127285
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127173
 #EXTINF:-1 tvg-id="vicetv.fr" tvg-name="|FR| VICELAND FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/Divertissement/VICETV.png" group-title="TV divers",|FR| VICELAND FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127174
-#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="|FR| FRANCE INFO FHD " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F45_42E_1_C00000_0_0_0.png" group-title="Info",|FR| FRANCE INFO FHD 
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="|FR| FRANCE INFO FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F45_42E_1_C00000_0_0_0.png" group-title="Info",|FR| FRANCE INFO FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126752
 #EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="|FR| BFM TV FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_206D_432_1_C00000_0_0_0.png" group-title="Info",|FR| BFM TV FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126753
@@ -403,7 +403,7 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126756
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126757
 #EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="|FR| TV5 MONDE FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B6_43E_1_C00000_0_0_0.png" group-title="Info",|FR| TV5 MONDE FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126760
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME 1 HD LEAGUE 2 " tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png" group-title="Sport",|FR| AMAZON PRIME 1 HD LEAGUE 2 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME 1 HD LEAGUE 2" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png" group-title="Sport",|FR| AMAZON PRIME 1 HD LEAGUE 2
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/170139
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AMAZON PRIME 2 HD LEAGUE 2" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png" group-title="Sport",|FR| AMAZON PRIME 2 HD LEAGUE 2
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/170140
@@ -441,41 +441,41 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126947
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126919
 #EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="|FR| RMC SPORT 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/9401.png" group-title="Sport",|FR| RMC SPORT 2 FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/126920
-#EXTINF:-1 tvg-id="boing.fr" tvg-name="|FR| BOING FHD " tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/BOING.png" group-title="Enfants ",|FR| BOING FHD 
+#EXTINF:-1 tvg-id="boing.fr" tvg-name="|FR| BOING FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/BOING.png" group-title="Enfants",|FR| BOING FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127109
-#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="|FR| BOOMERANG FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/BOOMERANG.png" group-title="Enfants ",|FR| BOOMERANG FHD
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="|FR| BOOMERANG FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/BOOMERANG.png" group-title="Enfants",|FR| BOOMERANG FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127108
-#EXTINF:-1 tvg-id="canalj.fr" tvg-name="|FR| CANAL J FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/CANALJ.png" group-title="Enfants ",|FR| CANAL J FHD
+#EXTINF:-1 tvg-id="canalj.fr" tvg-name="|FR| CANAL J FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/CANALJ.png" group-title="Enfants",|FR| CANAL J FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127115
-#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="|FR| CARTOON NETWORK FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/CARTOONNETWORK.png" group-title="Enfants ",|FR| CARTOON NETWORK FHD
+#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="|FR| CARTOON NETWORK FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/CARTOONNETWORK.png" group-title="Enfants",|FR| CARTOON NETWORK FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127113
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| DISNEY + FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/DISNEY+.png" group-title="Enfants ",|FR| DISNEY + FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| DISNEY + FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/DISNEY+.png" group-title="Enfants",|FR| DISNEY + FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127103
-#EXTINF:-1 tvg-id="disneychannelplus1.fr" tvg-name="|FR| DISNEY CHANNEL +1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/DISNEYCHANNEL+1.png" group-title="Enfants ",|FR| DISNEY CHANNEL +1 HD
+#EXTINF:-1 tvg-id="disneychannelplus1.fr" tvg-name="|FR| DISNEY CHANNEL +1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/DISNEYCHANNEL+1.png" group-title="Enfants",|FR| DISNEY CHANNEL +1 HD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127102
-#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="|FR| DISNEY CHANNEL FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/DISNEYCHANNELHD.png" group-title="Enfants ",|FR| DISNEY CHANNEL FHD
+#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="|FR| DISNEY CHANNEL FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/DISNEYCHANNELHD.png" group-title="Enfants",|FR| DISNEY CHANNEL FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127101
-#EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="|FR| DISNEY JUNIOR FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/DISNEYJUNIOR.png" group-title="Enfants ",|FR| DISNEY JUNIOR FHD
+#EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="|FR| DISNEY JUNIOR FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/DISNEYJUNIOR.png" group-title="Enfants",|FR| DISNEY JUNIOR FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127104
-#EXTINF:-1 tvg-id="gameone.fr" tvg-name="|FR| GAME ONE FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/GAMEONE.png" group-title="Enfants ",|FR| GAME ONE FHD
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="|FR| GAME ONE FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/GAMEONE.png" group-title="Enfants",|FR| GAME ONE FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127119
-#EXTINF:-1 tvg-id="gulli.fr" tvg-name="|FR| GULLI FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/GULLI.png" group-title="Enfants ",|FR| GULLI FHD
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="|FR| GULLI FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/GULLI.png" group-title="Enfants",|FR| GULLI FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127114
-#EXTINF:-1 tvg-id="jone.fr" tvg-name="|FR| J ONE FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/J-ONE.png" group-title="Enfants ",|FR| J ONE FHD
+#EXTINF:-1 tvg-id="jone.fr" tvg-name="|FR| J ONE FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/J-ONE.png" group-title="Enfants",|FR| J ONE FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127118
-#EXTINF:-1 tvg-id="mangas.fr" tvg-name="|FR| MANGAS FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/MANGAS.png" group-title="Enfants ",|FR| MANGAS FHD
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="|FR| MANGAS FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/MANGAS.png" group-title="Enfants",|FR| MANGAS FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127117
-#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="|FR| NICKELODEON FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/NICKELODEON.png" group-title="Enfants ",|FR| NICKELODEON FHD
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="|FR| NICKELODEON FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/NICKELODEON.png" group-title="Enfants",|FR| NICKELODEON FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127106
-#EXTINF:-1 tvg-id="nickjr.fr" tvg-name="|FR| NICKELODEON JR FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/NICKEODEONJUNIOR.png" group-title="Enfants ",|FR| NICKELODEON JR FHD
+#EXTINF:-1 tvg-id="nickjr.fr" tvg-name="|FR| NICKELODEON JR FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/NICKEODEONJUNIOR.png" group-title="Enfants",|FR| NICKELODEON JR FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127105
-#EXTINF:-1 tvg-id="nickelodeonteen.fr" tvg-name="|FR| NICKELODEON TEEN FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/NICKELODEONTEEN.png" group-title="Enfants ",|FR| NICKELODEON TEEN FHD
+#EXTINF:-1 tvg-id="nickelodeonteen.fr" tvg-name="|FR| NICKELODEON TEEN FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/NICKELODEONTEEN.png" group-title="Enfants",|FR| NICKELODEON TEEN FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127107
-#EXTINF:-1 tvg-id="teletoonplus.fr" tvg-name="|FR| TELETOON+ FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/TELETOON+.png" group-title="Enfants ",|FR| TELETOON+ FHD
+#EXTINF:-1 tvg-id="teletoonplus.fr" tvg-name="|FR| TELETOON+ FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/TELETOON+.png" group-title="Enfants",|FR| TELETOON+ FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127112
-#EXTINF:-1 tvg-id="tiji.fr" tvg-name="|FR| TIJI FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/TIJI.png" group-title="Enfants ",|FR| TIJI FHD
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="|FR| TIJI FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/TIJI.png" group-title="Enfants",|FR| TIJI FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127116
-#EXTINF:-1 tvg-id="toonami.fr" tvg-name="|FR| TOONAMI FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/TOONAMI.png" group-title="Enfants ",|FR| TOONAMI FHD
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="|FR| TOONAMI FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/TOONAMI.png" group-title="Enfants",|FR| TOONAMI FHD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127100
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| HGTV HD" tvg-logo="" group-title="USA",|US| HGTV HD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157963
@@ -1045,6 +1045,38 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/158065
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/158066
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| MAGNOLIA" tvg-logo="" group-title="USA DOCUMENTARY",|US| MAGNOLIA
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/158067
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="===== USA KIDS =====" tvg-logo="" group-title="USA KIDS",===== USA KIDS =====
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157250
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| BABY TV" tvg-logo="" group-title="USA KIDS",|US| BABY TV
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157251
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| BABY FIRST TV HD" tvg-logo="" group-title="USA KIDS",|US| BABY FIRST TV HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157252
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NICK JR HD" tvg-logo="" group-title="USA KIDS",|US| NICK JR HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157253
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NICK HD" tvg-logo="" group-title="USA KIDS",|US| NICK HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157254
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| CARTOON NETWORK HD" tvg-logo="" group-title="USA KIDS",|US| CARTOON NETWORK HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157255
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NICKELODEON HD" tvg-logo="" group-title="USA KIDS",|US| NICKELODEON HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157256
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| NICKTOONS HD" tvg-logo="" group-title="USA KIDS",|US| NICKTOONS HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157257
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| DISNEY CHANNEL HD" tvg-logo="" group-title="USA KIDS",|US| DISNEY CHANNEL HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157258
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| DISNEY JR HD" tvg-logo="" group-title="USA KIDS",|US| DISNEY JR HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157259
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| DISNEY XD HD." tvg-logo="" group-title="USA KIDS",|US| DISNEY XD HD.
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157260
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| TEEN NICK HD" tvg-logo="" group-title="USA KIDS",|US| TEEN NICK HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157261
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| PBS KIDS HD" tvg-logo="" group-title="USA KIDS",|US| PBS KIDS HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157262
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| BOOMERANG" tvg-logo="" group-title="USA KIDS",|US| BOOMERANG
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157263
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| UNIVERSAL KIDS HD" tvg-logo="" group-title="USA KIDS",|US| UNIVERSAL KIDS HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157264
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| CARTOONITO ES" tvg-logo="" group-title="USA KIDS",|US| CARTOONITO ES
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/157265
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="===== USA MUSIC =====" tvg-logo="" group-title="USA MUSIC",===== USA MUSIC =====
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/158618
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| MTV HD" tvg-logo="" group-title="USA MUSIC",|US| MTV HD
@@ -1159,171 +1191,171 @@ http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/158672
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/158673
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|US| BET HER HD" tvg-logo="" group-title="USA MUSIC",|US| BET HER HD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/158674
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: HUSTLER HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Hustler_HD.png" group-title="USA PPV",ADULT: HUSTLER HD
+#EXTINF: -1 tvg-name="ADULT: HUSTLER HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Hustler_HD.png" group-title="USA PPV", ADULT: HUSTLER HD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94529
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PENTHOUSE QUICKIES HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Penthouse_Quickies.png" group-title="USA PPV",ADULT: PENTHOUSE QUICKIES HD
+#EXTINF: -1 tvg-name="ADULT: PENTHOUSE QUICKIES HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Penthouse_Quickies.png" group-title="USA PPV", ADULT: PENTHOUSE QUICKIES HD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94530
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PENTHOUSE GOLD HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Penthouse_Gold_HD.png" group-title="USA PPV",ADULT: PENTHOUSE GOLD HD
+#EXTINF: -1 tvg-name="ADULT: PENTHOUSE GOLD HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Penthouse_Gold_HD.png" group-title="USA PPV", ADULT: PENTHOUSE GOLD HD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94531
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PENTHOUSE BLACK" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PENTHOUSE_BLACK.png" group-title="USA PPV",ADULT: PENTHOUSE BLACK
+#EXTINF: -1 tvg-name="ADULT: PENTHOUSE BLACK" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PENTHOUSE_BLACK.png" group-title="USA PPV", ADULT: PENTHOUSE BLACK
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94532
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PRIVATE TV HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Private_HD.png" group-title="USA PPV",ADULT: PRIVATE TV HD
+#EXTINF: -1 tvg-name="ADULT: PRIVATE TV HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Private_HD.png" group-title="USA PPV", ADULT: PRIVATE TV HD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94534
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: BABES TV HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Babes_TV.png" group-title="USA PPV",ADULT: BABES TV HD
+#EXTINF: -1 tvg-name="ADULT: BABES TV HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Babes_TV.png" group-title="USA PPV", ADULT: BABES TV HD
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94535
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: BANG U" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Bunga_Bunga.png" group-title="USA PPV",ADULT: BANG U
+#EXTINF: -1 tvg-name="ADULT: BANG U" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Bunga_Bunga.png" group-title="USA PPV", ADULT: BANG U
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94536
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: BARELY LEGAL" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Barely_Legal.png" group-title="USA PPV",ADULT: BARELY LEGAL
+#EXTINF: -1 tvg-name="ADULT: BARELY LEGAL" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Barely_Legal.png" group-title="USA PPV", ADULT: BARELY LEGAL
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94538
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: BEATE UHSE.TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Beate_Uhse_HD.png" group-title="USA PPV",ADULT: BEATE UHSE.TV
+#EXTINF: -1 tvg-name="ADULT: BEATE UHSE.TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Beate_Uhse_HD.png" group-title="USA PPV", ADULT: BEATE UHSE.TV
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94539
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: BLUE HUSTLER" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Blue_Hustler.png" group-title="USA PPV",ADULT: BLUE HUSTLER
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94540
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: BRAZZERS" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Brazzers_TV.png" group-title="USA PPV",ADULT: BRAZZERS
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94541
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: BRAZZERS TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Brazzers_TV.png" group-title="USA PPV",ADULT: BRAZZERS TV
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94542
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: BRAZZERS TV EUROPE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/BRAZZERS_TV_Europe.png" group-title="USA PPV",ADULT: BRAZZERS TV EUROPE
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94543
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: CANDY HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Candy.png" group-title="USA PPV",ADULT: CANDY HD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94544
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: DORCEL HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Dorcel_HD.png" group-title="USA PPV",ADULT: DORCEL HD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94546
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: DORCEL XXX HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/DORCEL_XXX.png" group-title="USA PPV",ADULT: DORCEL XXX HD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94547
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: DUSK!" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Dusk!_TV.png" group-title="USA PPV",ADULT: DUSK!
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94549
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: EROX HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Erox.png" group-title="USA PPV",ADULT: EROX HD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94550
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: EROXXX HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/EroXXX_HD.png" group-title="USA PPV",ADULT: EROXXX HD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94551
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: EVIL ANGEL HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Evil_Angel_HD.png" group-title="USA PPV",ADULT: EVIL ANGEL HD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94552
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: EXTASY" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Extasy_HD.png" group-title="USA PPV",ADULT: EXTASY
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94553
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: EXTREM" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Extreme.png" group-title="USA PPV",ADULT: EXTREM
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94554
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: EXXXOTICA" tvg-logo="http://vodkom.com:25461/Logo/ADULT/EXXXOTICA_HD_orig.png" group-title="USA PPV",ADULT: EXXXOTICA
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94555
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: FREE X TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV",ADULT: FREE X TV
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94556
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: FRENCH LOVER" tvg-logo="http://vodkom.com:25461/Logo/ADULT/FrenchLover.png" group-title="USA PPV",ADULT: FRENCH LOVER
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94557
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: FRENCH LOVER EUROPE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/FrenchLover.png" group-title="USA PPV",ADULT: FRENCH LOVER EUROPE
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94558
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: HOT TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/HOT.png" group-title="USA PPV",ADULT: HOT TV
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94560
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: HUSTLER TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Hustler_TV.png" group-title="USA PPV",ADULT: HUSTLER TV
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94561
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: JASMIN TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV",ADULT: JASMIN TV
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94562
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: LEO TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Leo_TV.png" group-title="USA PPV",ADULT: LEO TV
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94563
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: LESBIAN AFFAIR" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Lesbian_Affair.png" group-title="USA PPV",ADULT: LESBIAN AFFAIR
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94564
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: MEIDEN VAN HOLLAND HARD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV",ADULT: MEIDEN VAN HOLLAND HARD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94565
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: MILF TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV",ADULT: MILF TV
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94566
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: NET XX" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV",ADULT: NET XX
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94567
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: NUART TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV",ADULT: NUART TV
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94568
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: OLDTIMER" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Oldtimer.png" group-title="USA PPV",ADULT: OLDTIMER
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94570
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PASSION XXX" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Passion_XXX.png" group-title="USA PPV",ADULT: PASSION XXX
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94571
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PASSIE XXX" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Passion_XXX.png" group-title="USA PPV",ADULT: PASSIE XXX
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94572
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PINK O TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Pink_O_TV.png" group-title="USA PPV",ADULT: PINK O TV
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94573
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PLAYBOY" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PLAYBOY_TV.png" group-title="USA PPV",ADULT: PLAYBOY
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94574
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PLAYBOY EUROPE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PLAYBOY_TV_HD.png" group-title="USA PPV",ADULT: PLAYBOY EUROPE
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94575
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PRIVE TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PRIVE.png" group-title="USA PPV",ADULT: PRIVE TV
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94577
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: REALITY KINGS" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Reality_Kings_TV.png" group-title="USA PPV",ADULT: REALITY KINGS
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94578
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: RED XXX" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Red_XXX.png" group-title="USA PPV",ADULT: RED XXX
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94579
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: REDLIGHT HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Redlight_HD.png" group-title="USA PPV",ADULT: REDLIGHT HD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94580
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: RUSSIAN NIGHT" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV",ADULT: RUSSIAN NIGHT
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94581
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: SCT CLASSIC" tvg-logo="http://vodkom.com:25461/Logo/ADULT/SCT.png" group-title="USA PPV",ADULT: SCT CLASSIC
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94582
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: SECRET CIRCLE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV",ADULT: SECRET CIRCLE
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94583
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: SEXT & SENSO" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV",ADULT: SEXT & SENSO
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94585
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: SEXTREME" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV",ADULT: SEXTREME
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94586
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: SEXY HOT" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV",ADULT: SEXY HOT
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94587
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: STARS XXX HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV",ADULT: STARS XXX HD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94588
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: SUPER ONE HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Super_One.png" group-title="USA PPV",ADULT: SUPER ONE HD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94589
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: TABOO" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Taboo.png" group-title="USA PPV",ADULT: TABOO
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94590
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: VENUS TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Venus.png" group-title="USA PPV",ADULT: VENUS TV
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94591
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: VIVID RED HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Vivid_Red_HD.png" group-title="USA PPV",ADULT: VIVID RED HD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94592
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: VIVID TV EUROPE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Vivid_TV_Europe.png" group-title="USA PPV",ADULT: VIVID TV EUROPE
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94593
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: X BIZARRE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Brazzers_HD.png" group-title="USA PPV",ADULT: X BIZARRE
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94594
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: X BUNGA BUNGA" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Bunga_Bunga.png" group-title="USA PPV",ADULT: X BUNGA BUNGA
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94595
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: X DESIRE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/DESIRE.png" group-title="USA PPV",ADULT: X DESIRE
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94596
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: XXL" tvg-logo="http://vodkom.com:25461/Logo/ADULT/XXL.png" group-title="USA PPV",ADULT: XXL
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94598
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: XY MAX HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/XY_max.png" group-title="USA PPV",ADULT: XY MAX HD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94599
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: XY MIX HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/XY_mix.png" group-title="USA PPV",ADULT: XY MIX HD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94600
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: XY PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/XY_plus.png" group-title="USA PPV",ADULT: XY PLUS HD
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94601
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: ZEST TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV",ADULT: ZEST TV
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94602
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: BALKAN EROTIC" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Balkan_Erotic.png" group-title="USA PPV",ADULT: BALKAN EROTIC
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94603
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: SUPERONE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Super_One.png" group-title="USA PPV",ADULT: SUPERONE
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94614
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: WAAYH" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV",ADULT: WAAYH
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94615
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PINK EROTIC" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PINK_X.png" group-title="USA PPV",ADULT: PINK EROTIC
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94616
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PINK EROTIC 2" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PINK_X.png" group-title="USA PPV",ADULT: PINK EROTIC 2
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94617
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PINK EROTIC 3" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PINK_X.png" group-title="USA PPV",ADULT: PINK EROTIC 3
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94618
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PINK EROTIC 4" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PINK_X.png" group-title="USA PPV",ADULT: PINK EROTIC 4
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94619
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PINK EROTIC 5" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PINK_X.png" group-title="USA PPV",ADULT: PINK EROTIC 5
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94620
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PINK EROTIC 6" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PINK_X.png" group-title="USA PPV",ADULT: PINK EROTIC 6
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94621
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: PINK EROTIC 7" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PINK_X.png" group-title="USA PPV",ADULT: PINK EROTIC 7
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94622
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: EXX EXOTICA" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Exxxotica_HD.png" group-title="USA PPV",ADULT: EXX EXOTICA
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94624
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: FASHION TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Fashion_TV_HD.png" group-title="USA PPV",ADULT: FASHION TV
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94625
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: BLUE HUSTLER EUROPE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Blue_Hustler.png" group-title="USA PPV",ADULT: BLUE HUSTLER EUROPE
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94626
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: EXTREME" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Extreme.png" group-title="USA PPV",ADULT: EXTREME
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94627
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: EMANUELLE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Emanuelle_HD.png" group-title="USA PPV",ADULT: EMANUELLE
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94628
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: FAST BOYZ" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Fast_Boyz.png" group-title="USA PPV",ADULT: FAST BOYZ
-http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94629
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: MAN-X" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Man-X.png" group-title="USA PPV",ADULT: MAN-X
+#EXTINF: -1 tvg-name="ADULT: MAN-X" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Man-X.png" group-title="USA PPV", ADULT: MAN-X
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94630
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT: P HD PRIVATE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Private_HD_SBB.png" group-title="USA PPV",ADULT: P HD PRIVATE
+#EXTINF: -1 tvg-name="ADULT: BLUE HUSTLER" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Blue_Hustler.png" group-title="USA PPV", ADULT: BLUE HUSTLER
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94540
+#EXTINF: -1 tvg-name="ADULT: BRAZZERS" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Brazzers_TV.png" group-title="USA PPV", ADULT: BRAZZERS
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94541
+#EXTINF: -1 tvg-name="ADULT: BRAZZERS TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Brazzers_TV.png" group-title="USA PPV", ADULT: BRAZZERS TV
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94542
+#EXTINF: -1 tvg-name="ADULT: BRAZZERS TV EUROPE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/BRAZZERS_TV_Europe.png" group-title="USA PPV", ADULT: BRAZZERS TV EUROPE
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94543
+#EXTINF: -1 tvg-name="ADULT: CANDY HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Candy.png" group-title="USA PPV", ADULT: CANDY HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94544
+#EXTINF: -1 tvg-name="ADULT: DORCEL HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Dorcel_HD.png" group-title="USA PPV", ADULT: DORCEL HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94546
+#EXTINF: -1 tvg-name="ADULT: DORCEL XXX HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/DORCEL_XXX.png" group-title="USA PPV", ADULT: DORCEL XXX HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94547
+#EXTINF: -1 tvg-name="ADULT: DUSK!" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Dusk!_TV.png" group-title="USA PPV", ADULT: DUSK!
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94549
+#EXTINF: -1 tvg-name="ADULT: EROX HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Erox.png" group-title="USA PPV", ADULT: EROX HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94550
+#EXTINF: -1 tvg-name="ADULT: EROXXX HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/EroXXX_HD.png" group-title="USA PPV", ADULT: EROXXX HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94551
+#EXTINF: -1 tvg-name="ADULT: EVIL ANGEL HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Evil_Angel_HD.png" group-title="USA PPV", ADULT: EVIL ANGEL HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94552
+#EXTINF: -1 tvg-name="ADULT: EXTASY" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Extasy_HD.png" group-title="USA PPV", ADULT: EXTASY
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94553
+#EXTINF: -1 tvg-name="ADULT: EXTREM" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Extreme.png" group-title="USA PPV", ADULT: EXTREM
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94554
+#EXTINF: -1 tvg-name="ADULT: EXXXOTICA" tvg-logo="http://vodkom.com:25461/Logo/ADULT/EXXXOTICA_HD_orig.png" group-title="USA PPV", ADULT: EXXXOTICA
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94555
+#EXTINF: -1 tvg-name="ADULT: FREE X TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV", ADULT: FREE X TV
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94556
+#EXTINF: -1 tvg-name="ADULT: FRENCH LOVER" tvg-logo="http://vodkom.com:25461/Logo/ADULT/FrenchLover.png" group-title="USA PPV", ADULT: FRENCH LOVER
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94557
+#EXTINF: -1 tvg-name="ADULT: FRENCH LOVER EUROPE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/FrenchLover.png" group-title="USA PPV", ADULT: FRENCH LOVER EUROPE
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94558
+#EXTINF: -1 tvg-name="ADULT: HOT TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/HOT.png" group-title="USA PPV", ADULT: HOT TV
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94560
+#EXTINF: -1 tvg-name="ADULT: HUSTLER TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Hustler_TV.png" group-title="USA PPV", ADULT: HUSTLER TV
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94561
+#EXTINF: -1 tvg-name="ADULT: JASMIN TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV", ADULT: JASMIN TV
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94562
+#EXTINF: -1 tvg-name="ADULT: LEO TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Leo_TV.png" group-title="USA PPV", ADULT: LEO TV
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94563
+#EXTINF: -1 tvg-name="ADULT: LESBIAN AFFAIR" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Lesbian_Affair.png" group-title="USA PPV", ADULT: LESBIAN AFFAIR
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94564
+#EXTINF: -1 tvg-name="ADULT: MEIDEN VAN HOLLAND HARD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV", ADULT: MEIDEN VAN HOLLAND HARD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94565
+#EXTINF: -1 tvg-name="ADULT: MILF TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV", ADULT: MILF TV
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94566
+#EXTINF: -1 tvg-name="ADULT: NET XX" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV", ADULT: NET XX
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94567
+#EXTINF: -1 tvg-name="ADULT: NUART TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV", ADULT: NUART TV
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94568
+#EXTINF: -1 tvg-name="ADULT: OLDTIMER" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Oldtimer.png" group-title="USA PPV", ADULT: OLDTIMER
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94570
+#EXTINF: -1 tvg-name="ADULT: PASSION XXX" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Passion_XXX.png" group-title="USA PPV", ADULT: PASSION XXX
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94571
+#EXTINF: -1 tvg-name="ADULT: PASSIE XXX" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Passion_XXX.png" group-title="USA PPV", ADULT: PASSIE XXX
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94572
+#EXTINF: -1 tvg-name="ADULT: PINK O TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Pink_O_TV.png" group-title="USA PPV", ADULT: PINK O TV
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94573
+#EXTINF: -1 tvg-name="ADULT: PLAYBOY" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PLAYBOY_TV.png" group-title="USA PPV", ADULT: PLAYBOY
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94574
+#EXTINF: -1 tvg-name="ADULT: PLAYBOY EUROPE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PLAYBOY_TV_HD.png" group-title="USA PPV", ADULT: PLAYBOY EUROPE
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94575
+#EXTINF: -1 tvg-name="ADULT: PRIVE TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PRIVE.png" group-title="USA PPV", ADULT: PRIVE TV
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94577
+#EXTINF: -1 tvg-name="ADULT: REALITY KINGS" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Reality_Kings_TV.png" group-title="USA PPV", ADULT: REALITY KINGS
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94578
+#EXTINF: -1 tvg-name="ADULT: RED XXX" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Red_XXX.png" group-title="USA PPV", ADULT: RED XXX
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94579
+#EXTINF: -1 tvg-name="ADULT: REDLIGHT HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Redlight_HD.png" group-title="USA PPV", ADULT: REDLIGHT HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94580
+#EXTINF: -1 tvg-name="ADULT: RUSSIAN NIGHT" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV", ADULT: RUSSIAN NIGHT
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94581
+#EXTINF: -1 tvg-name="ADULT: SCT CLASSIC" tvg-logo="http://vodkom.com:25461/Logo/ADULT/SCT.png" group-title="USA PPV", ADULT: SCT CLASSIC
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94582
+#EXTINF: -1 tvg-name="ADULT: SECRET CIRCLE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV", ADULT: SECRET CIRCLE
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94583
+#EXTINF: -1 tvg-name="ADULT: SEXT & SENSO" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV", ADULT: SEXT & SENSO
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94585
+#EXTINF: -1 tvg-name="ADULT: SEXTREME" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV", ADULT: SEXTREME
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94586
+#EXTINF: -1 tvg-name="ADULT: SEXY HOT" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV", ADULT: SEXY HOT
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94587
+#EXTINF: -1 tvg-name="ADULT: STARS XXX HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV", ADULT: STARS XXX HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94588
+#EXTINF: -1 tvg-name="ADULT: SUPER ONE HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Super_One.png" group-title="USA PPV", ADULT: SUPER ONE HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94589
+#EXTINF: -1 tvg-name="ADULT: TABOO" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Taboo.png" group-title="USA PPV", ADULT: TABOO
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94590
+#EXTINF: -1 tvg-name="ADULT: VENUS TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Venus.png" group-title="USA PPV", ADULT: VENUS TV
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94591
+#EXTINF: -1 tvg-name="ADULT: VIVID RED HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Vivid_Red_HD.png" group-title="USA PPV", ADULT: VIVID RED HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94592
+#EXTINF: -1 tvg-name="ADULT: VIVID TV EUROPE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Vivid_TV_Europe.png" group-title="USA PPV", ADULT: VIVID TV EUROPE
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94593
+#EXTINF: -1 tvg-name="ADULT: X BIZARRE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Brazzers_HD.png" group-title="USA PPV", ADULT: X BIZARRE
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94594
+#EXTINF: -1 tvg-name="ADULT: X BUNGA BUNGA" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Bunga_Bunga.png" group-title="USA PPV", ADULT: X BUNGA BUNGA
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94595
+#EXTINF: -1 tvg-name="ADULT: X DESIRE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/DESIRE.png" group-title="USA PPV", ADULT: X DESIRE
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94596
+#EXTINF: -1 tvg-name="ADULT: XXL" tvg-logo="http://vodkom.com:25461/Logo/ADULT/XXL.png" group-title="USA PPV", ADULT: XXL
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94598
+#EXTINF: -1 tvg-name="ADULT: XY MAX HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/XY_max.png" group-title="USA PPV", ADULT: XY MAX HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94599
+#EXTINF: -1 tvg-name="ADULT: XY MIX HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/XY_mix.png" group-title="USA PPV", ADULT: XY MIX HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94600
+#EXTINF: -1 tvg-name="ADULT: XY PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/ADULT/XY_plus.png" group-title="USA PPV", ADULT: XY PLUS HD
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94601
+#EXTINF: -1 tvg-name="ADULT: ZEST TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV", ADULT: ZEST TV
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94602
+#EXTINF: -1 tvg-name="ADULT: BALKAN EROTIC" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Balkan_Erotic.png" group-title="USA PPV", ADULT: BALKAN EROTIC
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94603
+#EXTINF: -1 tvg-name="ADULT: SUPERONE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Super_One.png" group-title="USA PPV", ADULT: SUPERONE
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94614
+#EXTINF: -1 tvg-name="ADULT: WAAYH" tvg-logo="http://vodkom.com:25461/Logo/ADULT/" group-title="USA PPV", ADULT: WAAYH
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94615
+#EXTINF: -1 tvg-name="ADULT: PINK EROTIC" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PINK_X.png" group-title="USA PPV", ADULT: PINK EROTIC
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94616
+#EXTINF: -1 tvg-name="ADULT: PINK EROTIC 2" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PINK_X.png" group-title="USA PPV", ADULT: PINK EROTIC 2
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94617
+#EXTINF: -1 tvg-name="ADULT: PINK EROTIC 3" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PINK_X.png" group-title="USA PPV", ADULT: PINK EROTIC 3
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94618
+#EXTINF: -1 tvg-name="ADULT: PINK EROTIC 4" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PINK_X.png" group-title="USA PPV", ADULT: PINK EROTIC 4
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94619
+#EXTINF: -1 tvg-name="ADULT: PINK EROTIC 5" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PINK_X.png" group-title="USA PPV", ADULT: PINK EROTIC 5
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94620
+#EXTINF: -1 tvg-name="ADULT: PINK EROTIC 6" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PINK_X.png" group-title="USA PPV", ADULT: PINK EROTIC 6
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94621
+#EXTINF: -1 tvg-name="ADULT: PINK EROTIC 7" tvg-logo="http://vodkom.com:25461/Logo/ADULT/PINK_X.png" group-title="USA PPV", ADULT: PINK EROTIC 7
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94622
+#EXTINF: -1 tvg-name="ADULT: EXX EXOTICA" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Exxxotica_HD.png" group-title="USA PPV", ADULT: EXX EXOTICA
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94624
+#EXTINF: -1 tvg-name="ADULT: FASHION TV" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Fashion_TV_HD.png" group-title="USA PPV", ADULT: FASHION TV
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94625
+#EXTINF: -1 tvg-name="ADULT: BLUE HUSTLER EUROPE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Blue_Hustler.png" group-title="USA PPV", ADULT: BLUE HUSTLER EUROPE
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94626
+#EXTINF: -1 tvg-name="ADULT: EXTREME" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Extreme.png" group-title="USA PPV", ADULT: EXTREME
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94627
+#EXTINF: -1 tvg-name="ADULT: EMANUELLE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Emanuelle_HD.png" group-title="USA PPV", ADULT: EMANUELLE
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94628
+#EXTINF: -1 tvg-name="ADULT: FAST BOYZ" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Fast_Boyz.png" group-title="USA PPV", ADULT: FAST BOYZ
+http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94629
+#EXTINF: -1 tvg-name="ADULT: P HD PRIVATE" tvg-logo="http://vodkom.com:25461/Logo/ADULT/Private_HD_SBB.png" group-title="USA PPV", ADULT: P HD PRIVATE
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/94631
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="=====| USA SPORTS |=====" tvg-logo="" group-title="USA SPORTS",=====| USA SPORTS |=====
 http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/159605
